@@ -1,4 +1,4 @@
-# ---------- ASSALAMUALAYKUM  OWARAHMATULLAH ------------
+# --------- ASSALAMUALAYKUM  OWARAHMATULLAH -----------
 
 ### WELCOME HERE 👋
 
