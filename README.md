@@ -9,4 +9,4 @@
 - 💬 Ask me about: https://www.linkedin.com/in/mhmprogrammer81818/
 - 📫 How to reach me: https://github.com/Murad9288/About__My__Details
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murad9288&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast)
