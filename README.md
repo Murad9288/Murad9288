@@ -4,7 +4,7 @@
 - 🔰  My name is MD Murad Hossain.
 - 🔭 I’m currently working on competitive programming. 
 - 🌱 I’m currently learning swift.
-- 👯 I’m looking to collaborate on various Progject and Problems.
+- 👯 I’m looking to collaborate on various progject and problems.
 - 💬 Ask me about: sompetitive srogramming & sroblem discuss.
 - 🤔 I’m looking for help with Ios development project learning.
 - 😄 Pronouns: He/His.
