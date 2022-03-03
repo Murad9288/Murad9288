@@ -1,6 +1,6 @@
 # --------- ASSALAMUALAYKUM  OWARAHMATULLAH -----------
 
-### WELCOME HERE 👋
+### HI THERE! WELCOME TO MY GITHUB PROFILE 👋
 - 🔰  My name is MD Murad Hossain.
 - 🔭 I’m currently working on Competitive Programming. 
 - 🌱 I’m currently learning Ios Development.
