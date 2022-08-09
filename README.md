@@ -3,7 +3,7 @@
 ### HI THERE! WELCOME TO MY GITHUB PROFILE 👋
 - 🔰  My name is MD Murad Hossain.
 - 🔭 I’m currently working on competitive programming. 
-- 🌱 I’m currently learning swift.
+- 🌱 I’m currently learning iOs Development.
 - 👯 I’m looking to collaborate on various progject and problems.
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 🤔 I’m looking for help with Ios development project learning.
