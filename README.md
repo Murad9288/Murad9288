@@ -36,10 +36,28 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift
 
 
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=compact" alt="murad9288" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=compact"/></p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast" /></p>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
