@@ -33,7 +33,7 @@
 <h2 align="left"><u>Cometitive programming website links:</u></h2>
 
 <p align="left">
-<a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="30" width="40" />&nbsp;&nbsp;</a>
+<a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="35" width="45" />&nbsp;&nbsp;</a>
 <a href="https://www.codechef.com/users/md_murad_01" target="blank">&nbsp;&nbsp;<img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="md_murad_01" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://codeforces.com/profile/muradhossain" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muradhossain" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://toph.co/u/murad928" target="blank">&nbsp;&nbsp;<img align="center" src="https://static.toph.co/images/emblem_512p.png?_=d5d517cf95abe4d22253494019b418fc5f3ce386" alt="murad928" height="30" width="40" />&nbsp;&nbsp;</a>
