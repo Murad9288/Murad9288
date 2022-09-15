@@ -14,7 +14,7 @@
 
 <h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /> </p>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmprogrammer81818" height="15" width="20" /> <img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /> </p>
 
 <h2 align="left"><u>My social & blog links:</u></h2>
 
