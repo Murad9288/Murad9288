@@ -15,7 +15,7 @@
 <h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=dc143c&label=PROFILE+VIEWS" alt="murad9288" /> </p>
-<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=https://murad9288.tumblr.com/" alt="Hits">
+<img src="https://hitcounter.pythonanywhere.com/nocount/tag.svg?url=www.murad9288.tumblr.com" alt="Hits">
 
 <h2 align="left"><u>My social & blog links:</u></h2>
 
