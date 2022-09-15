@@ -1,6 +1,9 @@
 # <h1 align="center">ASSALAMUALAYKUM &nbsp;&nbsp; OWARAHMATULLAH</h1>
 
 #### HI THERE! WELCOME TO MY GITHUB PROFILE 👋
+
+<p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /></p>
+
 - 🔰  My name is MD Murad Hossain.
 - 🔭 I’m currently working on competitive programming. 
 - 🌱 I’m currently learning iOS Development.
@@ -9,12 +12,10 @@
 - 🤔 I’m looking for help with iOS development project learning.
 - 😄 Pronouns: He/His. 
 - 📫 How to reach me: muradhossainm01@gmail.com
-- 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
+- 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 
 
 <h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
-
-<p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /></p>
 
 <h2 align="left"><u>My social & blog links:</u></h2>
 
