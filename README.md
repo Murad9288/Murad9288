@@ -40,5 +40,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift
 <p>&nbsp;</p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast" /></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&=highcontrast" alt="murad9288"/></p>
