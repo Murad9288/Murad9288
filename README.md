@@ -59,7 +59,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift
 <p>&nbsp;</p>
 
 
-<h3 align="center">iOS Developer & Competitive Programmer</h3>
+<h3 align="center">A passionate ios developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 
