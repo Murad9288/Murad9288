@@ -16,7 +16,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 
-<h2 align="left"><u>A passionate ios developer from Bangladesh</u></h2>
+<h3 align="left"><u>My social & blog links:</u></h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmprogrammer81818" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://discord.gg/murad928#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><u>Competitive programming website links:</u></h3>
+<h3 align="left"><u>Cometitive programming website links:</u></h3>
 
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="30" width="40" /></a>
