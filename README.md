@@ -31,7 +31,7 @@
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/muradhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muradhossain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/murad928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murad928" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@muradhossainm01" target="blank"><img align="center" src=	"https://encrypted-tbn0.gstatic.com/images?q=tbn:AN…s00H_neId1fqc27e7d-hNnixwwW6eEiaa2QjNYhI&usqp=CAU" alt="@muradhossainm01" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@muradhossainm01" target="blank"><img align="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrwCDaNpgPhMs63qV4W7C_hKh1c-USwaq3ld0yRwaskRXneKAyBefw70VLhkVC4cYZvI&usqp=CAU" alt="@muradhossainm01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/murad_9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="30" width="40" /></a>
 <a href="https://discord.gg/murad928#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="30" width="40" /></a>
@@ -47,5 +47,5 @@
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&=highcontrast" alt="murad9288"/></p>
 
-
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrwCDaNpgPhMs63qV4W7C_hKh1c-USwaq3ld0yRwaskRXneKAyBefw70VLhkVC4cYZvI&usqp=CAU"
 
