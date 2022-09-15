@@ -9,7 +9,7 @@
 - 🤔 I’m looking for help with Ios development project learning.
 - 😄 Pronouns: He/His.
 - 📫 How to reach me: muradhossainm01@gmail.com
-- 📝 I regularly write articles on [https://murad9288.tumblr.com/](https://murad9288.tumblr.com/)
+- 📝 I regularly write articles on <a href="https://murad9288.tumblr.com" target="blank"><img align="center" src="https://cdn.mos.cms.futurecdn.net/ge36mrFPXqtx8p57b2sT5U.jpg" alt="murad9288" height="30" width="40" /></a>
 
 <h2 align="center"><u>A passionate ios developer from Bangladesh</u></h2>
 
