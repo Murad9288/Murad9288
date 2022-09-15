@@ -61,7 +61,7 @@
 <p align = "center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
-<h2 align="left"><u>Github usercontent ⇨</u></h2>
+<h2 align="left"><u>Github-readme-streak-stats ⇨</u></h2>
 <p align = "center">
-<a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=tokyonight" alt="murad9288"/></a>
+<a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&redius=120" alt="murad9288"/></a>
 </p>
