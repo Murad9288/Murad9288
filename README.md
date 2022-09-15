@@ -38,7 +38,8 @@
 <a href="https://auth.geeksforgeeks.org/user/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/murad_9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="30" width="40" /></a>
 <a href="https://www.spoj.com/users/murad_928" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/399813688/b38dcc0c-492f-49f0-a7a4-272876855a3e" alt="murad_928" height="30" width="40" /></a>
-<a href="https://www.beecrowd.com.br/judge/en/profile/410612" target="blank"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGrWR…eta&t=Ay7gfQt5j7mXtPEHnSDlmZanalULMfpaNwcPPSUO8WM" alt="410612" height="30" width="40" /></a>
+<a href="https://www.beecrowd.com.br/judge/en/profile/410612" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1452678635178053646/I0XsDRcl_400x400.jpg" alt="410612" height="30" width="40" /></a>
+
 
 </p>
 
