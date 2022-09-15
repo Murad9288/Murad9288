@@ -8,7 +8,7 @@
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 🤔 I’m looking for help with Ios development project learning.
 - 😄 Pronouns: He/His. 
-- 📫 How to reach me: <a href="https://join.skype.com/invite/WYiyPQob1ekJ" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/9-97803_luxury-skype-button-png-image-free-download-searchpng.png" alt="WYiyPQob1ekJ" height="30" width="40" /></a> <a href="https://mail.google.com" target="blank"><img align="center" src="https://iconarchive.com/download/i58923/wwalczyszyn/android-style-honeycomb/GMail.ico" alt="muradhossainm01" height="30" width="40" /></a>
+- 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="30" width="40" /></a>
 <h2 align="center"><u>A passionate ios developer from Bangladesh</u></h2>
 
@@ -19,6 +19,7 @@
 <a href="https://fb.com/mdmurad.hossainmiraj.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmurad.hossainmiraj.9" height="30" width="40" /></a>
 <a href="https://twitter.com/murad_miraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murad_miraj" height="30" width="40" /></a>
 <a href="https://instagram.com/e_m__murad__hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="e_m__murad__hossain" height="30" width="40" /></a>
+<a href="https://join.skype.com/invite/WYiyPQob1ekJ" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/9-97803_luxury-skype-button-png-image-free-download-searchpng.png" alt="WYiyPQob1ekJ" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18079492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079492" height="30" width="40" /></a>
 <a href="https://dribbble.com/murad_hossain-m01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="murad_hossain-m01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mhm programming club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhm programming club" height="30" width="40" /></a>
