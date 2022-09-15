@@ -12,11 +12,11 @@
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="30" width="40" /></a>
 
 
-<h2 align="center"><u>A passionate ios developer from Bangladesh</u></h2>
+<h1 align="center"><u>A passionate ios developer from Bangladesh</u></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 
-<h4 align="left"><u>My social & blog links:</u></h4>
+<h2 align="left"><u>My social & blog links:</u></h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmprogrammer81818" height="30" width="40" /></a>
@@ -30,7 +30,7 @@
 <a href="https://discord.gg/murad928#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><u>Cometitive programming website links:</u></h3>
+<h2 align="left"><u>Cometitive programming website links:</u></h2>
 
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="30" width="40" /></a>
@@ -48,7 +48,7 @@
 <a href="https://www.topcoder.com/members/murad_9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="30" width="40" /></a>
 </p>
 
-<h3 align="left"><marque>Languages and Tools:</marque></h3>
+<h1 align="left"><marque>Languages and Tools:</marque></h1>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </p>
