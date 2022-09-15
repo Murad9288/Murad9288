@@ -1,6 +1,6 @@
 # <h1 align="center">ASSALAMUALAYKUM &nbsp;&nbsp; OWARAHMATULLAH</h1>
 
-#### HI THERE! WELCOME TO MY GITHUB PROFILE 👋
+#### HI! WELCOME TO MY GITHUB PROFILE HERE- 👋
 
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /></p>
 
