@@ -9,10 +9,15 @@
 - 🤔 I’m looking for help with Ios development project learning.
 - 😄 Pronouns: He/His.
 - 📫 How to reach me: muradhossainm01@gmail.com
+- 📝 I regularly write articles on [https://murad9288.tumblr.com/](https://murad9288.tumblr.com/)
+
+
 <h2 align="center"><u>A passionate ios developer from Bangladesh</u></h2>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://twitter.com/murad_miraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="murad_miraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmprogrammer81818" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18079492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079492" height="30" width="40" /></a>
