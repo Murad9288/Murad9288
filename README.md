@@ -31,7 +31,10 @@
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/muradhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muradhossain" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/murad928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murad928" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@muradhossainm01" height="30" width="40" /></a>
+  <br>
+  <br>
+ 
+<a href="https://www.hackerearth.com/@muradhossainm01" target="blank"><img align="center" src="https://camo.githubusercontent.com/ed3612f2bf68161…26330612d4841434b455245415254485f4c4f474f2e706e67" alt="@muradhossainm01" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/murad_9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="30" width="40" /></a>
 <a href="https://discord.gg/murad928#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="30" width="40" /></a>
