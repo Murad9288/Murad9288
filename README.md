@@ -14,7 +14,7 @@
 
 <h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
 
-<p><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="50" width="50"/><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /></p>
+<p align="center"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="50" width="50"/><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=Murad9288+Github+PROFILE+VIEWS" alt="murad9288" /></p>
 
 <h2 align="left"><u>My social & blog links:</u></h2>
 
