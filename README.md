@@ -14,9 +14,9 @@
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 
-
+<p>&nbsp;</p>
 <h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
-
+<p>&nbsp;</p>
 <h2 align="left"><u>My social & blog links:</u></h2>
 
 <p align="left">
@@ -30,7 +30,7 @@
 <a href="https://www.youtube.com/c/mhm programming club" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhm programming club" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
 </p>
-
+<p>&nbsp;</p>
 <h2 align="left"><u>Cometitive programming website links:</u></h2>
 
 <p align="left">
