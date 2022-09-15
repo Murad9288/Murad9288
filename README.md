@@ -14,8 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murad9288" alt="murad9288" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/murad_miraj" target="blank"><img src="https://img.shields.io/twitter/follow/murad_miraj?logo=twitter&style=for-the-badge" alt="murad_miraj" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -46,6 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast" alt="murad9288"/></p>
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&=highcontrast" alt="murad9288"/></p>
-
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrwCDaNpgPhMs63qV4W7C_hKh1c-USwaq3ld0yRwaskRXneKAyBefw70VLhkVC4cYZvI&usqp=CAU"
-
