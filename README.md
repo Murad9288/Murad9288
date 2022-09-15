@@ -65,3 +65,6 @@
 <p align = "center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=false&border_radius=70" alt="murad9288"/></a>
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/username=Murad9288&repo=github-readme-stats" /></a>
+<a href="https://github.com/anuraghazra/convoychat"><img align="left" src="https://github-readme-stats.vercel.app/api/pin/username=Murad9288&repo=convoychat" /></a>
