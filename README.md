@@ -3,16 +3,16 @@
 #### HI THERE! WELCOME TO MY GITHUB PROFILE 👋
 - 🔰  My name is MD Murad Hossain.
 - 🔭 I’m currently working on competitive programming. 
-- 🌱 I’m currently learning iOs Development.
+- 🌱 I’m currently learning iOS Development.
 - 👯 I’m looking to collaborate on various project and problems.
 - 💬 Ask me about: Competitive programming & problem discussion.
-- 🤔 I’m looking for help with Ios development project learning.
+- 🤔 I’m looking for help with iOS development project learning.
 - 😄 Pronouns: He/His. 
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="30" width="40" /></a>
 
 
-<h1 align="center"><u>A passionate ios developer from Bangladesh</u></h1>
+<h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 
