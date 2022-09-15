@@ -16,6 +16,7 @@
 
 <p>&nbsp;</p>
 <h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
+<p>&nbsp;</p>
 <h2 align="left"><u>My social & blog links:</u></h2>
 
 <p align="left">
