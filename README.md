@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 
-<p align="left"> <a href= "https://www.instagram.com/e_m__murad__hossain" target="blank"><img src="https://img.shields.io/instagram/follow/e_m__murad__hossain?logo=instagram&style=for-the-badge" alt="murad_miraj" /></a> </p>
+<p align="left"> <a href= "https://www.instagram.com/e_m__murad__hossain" target="blank"><img src="https://img.shields.io/twitter/follow/e_m__murad__hossain?logo=instagram&style=for-the-badge" alt="murad_miraj" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
