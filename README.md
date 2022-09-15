@@ -27,7 +27,7 @@
 <a href="https://stackoverflow.com/users/18079492" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079492" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://dribbble.com/murad_hossain-m01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="murad_hossain-m01" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://www.youtube.com/c/mhm programming club" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhm programming club" height="30" width="40" />&nbsp;&nbsp;</a>
-<a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="40" width="40" />&nbsp;&nbsp;</a>
+<a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
 </p>
 
 <h2 align="left"><u>Cometitive programming website links:</u></h2>
