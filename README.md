@@ -31,7 +31,7 @@
 <a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
 </p>
 <p>&nbsp;</p>
-<h2 align="left"><u>My competitive programming website to links:</u></h2>
+<h2 align="left"><u>My competitive programming website links:</u></h2>
 
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
