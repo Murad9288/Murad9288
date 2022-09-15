@@ -8,7 +8,7 @@
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 🤔 I’m looking for help with Ios development project learning.
 - 😄 Pronouns: He/His. 
-- 📫 How to reach me: <a href="https://join.skype.com/invite/WYiyPQob1ekJ" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/9-97803_luxury-skype-button-png-image-free-download-searchpng.png" alt="WYiyPQob1ekJ" height="30" width="40" /></a> <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="blank"><img align="center" src="https://iconarchive.com/download/i58923/wwalczyszyn/android-style-honeycomb/GMail.ico" alt="?tab=rm&ogbl#inbox" height="30" width="40" /></a>
+- 📫 How to reach me: <a href="https://join.skype.com/invite/WYiyPQob1ekJ" target="blank"><img align="center" src="https://www.kindpng.com/picc/m/9-97803_luxury-skype-button-png-image-free-download-searchpng.png" alt="WYiyPQob1ekJ" height="30" width="40" /></a> <a href="https://mail.google.com" target="blank"><img align="center" src="https://iconarchive.com/download/i58923/wwalczyszyn/android-style-honeycomb/GMail.ico" alt="muradhossainm01" height="30" width="40" /></a>
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="30" width="40" /></a>
 <h2 align="center"><u>A passionate ios developer from Bangladesh</u></h2>
 
