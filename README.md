@@ -15,7 +15,8 @@
 <h2 align="center"><u>A passionate ios developer from Bangladesh</u></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
-<h3 align="center"><u>My social & blog links:</u></h3>
+
+<h3 align="left"><u>My social & blog links:</u></h3>
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmprogrammer81818" height="30" width="40" /></a>
 <a href="https://fb.com/mdmurad.hossainmiraj.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdmurad.hossainmiraj.9" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
 <a href="https://dribbble.com/murad_hossain-m01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="murad_hossain-m01" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mhm programming club" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mhm programming club" height="30" width="40" /></a>
 <a href="https://discord.gg/murad928#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="30" width="40" /></a>
+</p>
 
 <h3 align="left"><u>Competitive programming website links:</u></h3>
 <p align="left">
@@ -42,9 +44,6 @@
 <a href="https://www.spoj.com/users/murad_928" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/399813688/b38dcc0c-492f-49f0-a7a4-272876855a3e" alt="murad_928" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/murad_9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="30" width="40" /></a>
-
-
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
