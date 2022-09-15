@@ -55,13 +55,13 @@
 <p>&nbsp;</p>
 <h2 align="left"><u>Percentage of languages used ⇨</u></h2>
 <p align = "center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&hide_border=true&border_radius=50" alt="murad9288"/></a></p>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&hide_border=false&border_radius=30" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
 <h2 align="left"><u>Github-readme-stats ⇨</u></h2>
 <p align = "center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast&hide_border=false&border_radius=70" alt="murad9288"/></a></p>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast&hide_border=false&border_radius=50" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
 <h2 align="left"><u>Github-readme-streak-stats ⇨</u></h2>
 <p align = "center">
-<a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=true&border_radius=80" alt="murad9288"/></a>
+<a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=false&border_radius=70" alt="murad9288"/></a>
 </p>
