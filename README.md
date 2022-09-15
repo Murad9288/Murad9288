@@ -30,12 +30,14 @@
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/md_murad_01" target="blank"><img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="md_murad_01" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/muradhossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="muradhossain" height="30" width="40" /></a>
+<a href="https://toph.co/u/murad928" target="blank"><img align="center" src="https://static.toph.co/images/emblem_512p.png?_=d5d517cf95abe4d22253494019b418fc5f3ce386" alt="murad928" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/murad928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="murad928" height="30" width="40" /></a>
+<a href="https://atcoder.jp/users/murad_9288" target="blank"><img align="center" src="https://i.ytimg.com/vi/0_uzqZb2E_4/hqdefault.jpg" alt="murad_9288" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@muradhossainm01" target="blank"><img align="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrwCDaNpgPhMs63qV4W7C_hKh1c-USwaq3ld0yRwaskRXneKAyBefw70VLhkVC4cYZvI&usqp=CAU" alt="@muradhossainm01" height="30" width="40" /></a>
+<a href="https://www.stopstalk.com/user/profile/Murad_Hossain_9014" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="Murad_Hossain_9014" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/muradhossainm01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muradhossainm01" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/murad_9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="30" width="40" /></a>
-<a href="https://toph.co/u/murad928" target="blank"><img align="center" src="https://static.toph.co/images/emblem_512p.png?_=d5d517cf95abe4d22253494019b418fc5f3ce386" alt="murad928" height="30" width="40" /></a>
-<a href="https://www.stopstalk.com/user/profile/Murad_Hossain_9014" target="blank"><img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="Murad_Hossain_9014" height="30" width="40" /></a>
+<a href="https://www.spoj.com/users/murad_928" target="blank"><img align="center" src="https://repository-images.githubusercontent.com/399813688/b38dcc0c-492f-49f0-a7a4-272876855a3e" alt="murad_928" height="30" width="40" /></a>
 
 
 </p>
