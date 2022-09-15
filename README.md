@@ -63,5 +63,5 @@
 
 <h2 align="left"><u>Github usercontent ⇨</u></h2>
 <p align = "center">
-<a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&=solarized-light" alt="murad9288"/></a>
+<a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?username=murad9288&theme=solarized-light" alt="murad9288"/></a>
 </p>
