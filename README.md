@@ -55,8 +55,7 @@
 
 <p>&nbsp;</p>
 <h2 align="center"><u>Percentage of languages used:</u></h2>
-<p align="center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=compact"/></a>
+<a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=compact"/></a>
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast" alt="murad9288"/></p>
 <p>&nbsp;</p>
