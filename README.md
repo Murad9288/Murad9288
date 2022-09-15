@@ -46,9 +46,6 @@
 <p>&nbsp;</p>
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&=highcontrast" alt="murad9288"/></p>
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDR3ODX44hjTpU1BG9IsA8lTroNyHArosaVg&usqp=CAU
-
-
 
 
 
