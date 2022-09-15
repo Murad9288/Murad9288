@@ -61,7 +61,7 @@
 <p align = "center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast&hide_border=false&border_radius=50" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
-<u><h3 align="left">Github-readme-streak-stats ⇨</h3></u>
+<a><u><h3 align="left">Github-readme-streak-stats ⇨</h3></u></a>
 <p align = "center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=false&border_radius=70" alt="murad9288"/></a>
 </p>
