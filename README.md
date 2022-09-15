@@ -56,11 +56,13 @@
 <p>&nbsp;</p>
 <h2 align="center"><u>Percentage of languages used:</u></h2>
 <p align = "center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=vision-friendly-dark"/></a>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=vision-friendly-dark"/></a></p>
 <p>&nbsp;</p>
 <h2 align="center"><u>Github-readme-stats:</u></h2>
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=vision-friendly-dark" alt="murad9288"/></a>
+<p align = "center">
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&theme=highcontrast" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
 <h2 align="center"><u>Github usercontent:</u></h2>
+<p align = "center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&=vision-friendly-dark" alt="murad9288"/></a>
 </p>
