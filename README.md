@@ -38,6 +38,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=murad9288&show_icons=true&locale=en&layout=compact" alt="murad9288" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.golden.app/api?username=murad9288&show_icons=true&locale=en" alt="murad9288" /></p>
+<p>&nbsp;<img align="under" src="https://github-readme-stats.vercel.app/api?username=murad9288&show_icons=true&locale=en" alt="murad9288" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=murad9288&" alt="murad9288" /></p>
