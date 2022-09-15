@@ -12,7 +12,7 @@
 - 📝 I regularly write articles on [https://murad9288.tumblr.com/](https://murad9288.tumblr.com/)
 
 
-<h2 align="center"><u><marquee>A passionate ios developer from Bangladesh<marquee/></u></h2>
+<h2 align="center"><u><marquee>A passionate ios developer from Bangladesh</marquee></u></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murad9288&label=Profile%20views&color=0e75b6&style=flat" alt="murad9288" /> </p>
 <h3 align="left">Connect with me:</h3>
