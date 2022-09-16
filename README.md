@@ -70,4 +70,4 @@
 
 
 
-<a style="position:fixed;z-index:1339; !important;top:55px;right:3px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank"><img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1663362234/style=2/counter.png" border="0"></a>
+<a style="position:fixed;z-index:2000; !important;top:100px;right:30px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank"><img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1663362234/style=2/counter.png" border="20"></a>
