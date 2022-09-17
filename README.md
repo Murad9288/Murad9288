@@ -61,7 +61,7 @@
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/apiusername=Murad9288&show_icons=boolean&theme=highcontrast&include_all_commits=boolean&hide_border=false&border_radius=50" alt="murad9288" /></a></p>
 <p align ="center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="murad9288" /></a></p>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=radical" alt="murad9288" /></a></p>
 
 <p>&nbsp;</p>
 <h2 align="left"><u>Github-readme-streak-stats ⇨</u></h2>
