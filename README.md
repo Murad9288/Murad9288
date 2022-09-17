@@ -15,9 +15,9 @@
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 
 <p>&nbsp;</p>
-<h1 align="center"><u>A passionate iOS developer from Bangladesh</u></h1>
+<h1 align="center"><u>A Passionate iOS Developer From Bangladesh</u></h1>
 <p>&nbsp;</p>
-<h2 align="left"><u>My social & blog links:</u></h2>
+<h2 align="left"><u>My Social & Blog Links:</u></h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
@@ -31,7 +31,7 @@
 <a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
 </p>
 <p>&nbsp;</p>
-<h2 align="left"><u>My competitive programming website links:</u></h2>
+<h2 align="left"><u>My Competitive Programming Website Links:</u></h2>
 
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
@@ -49,22 +49,22 @@
 <a href="https://www.topcoder.com/members/murad_9288" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="50" width="50" />&nbsp;&nbsp;</a>
 </p>
 <p>&nbsp;</p>
-<h2 align="left"><marque>Languages and tools:</marque></h2>
+<h2 align="left"><marque>Languages and Tools:</marque></h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a>
 </p>
 <p>&nbsp;</p>
-<h2 align="left"><u>Percentage of languages used ⇨</u></h2>
+<h2 align="left"><u>My Github Readme Percentage of Languages Used Card ⇨</u></h2>
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=react" alt="murad9288"/></a>
 </p>
 <p>&nbsp;</p>
-<h2 align="left"><u>Github-readme-stats ⇨</u></h2>
+<h2 align="left"><u>My GitHub Readme Stats Card⇨</u></h2>
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=boolean&border_radius=50" alt="murad9288" /></a>
 </p>
 
 <p>&nbsp;</p>
-<h2 align="left"><u>Github-readme-streak-stats ⇨</u></h2>
+<h2 align="left"><u>My GitHub Readme Streak Stats Card ⇨</u></h2>
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=false&border_radius=70" alt="murad9288"/></a>
 </p>
