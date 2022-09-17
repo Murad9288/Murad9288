@@ -70,7 +70,7 @@
 
 
 
-<a style="position:fixed;z-index:2000; !important;top:100px;right:30px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank"><img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" border="20"></a>
+<a style="position:fixed;z-index:2000; !important;top:100px;right:30px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank"><img src="https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png" border="20"></a>
 
 ![til](https://raw.githubusercontent.com/hashrocket/hr-til/master/app/assets/images/banner.png)
 
