@@ -54,18 +54,18 @@
 </p>
 <p>&nbsp;</p>
 <h2 align="left"><u>Percentage of languages used ⇨</u></h2>
-<p align = "center">
+<p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=react" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
 <h2 align="left"><u>Github-readme-stats ⇨</u></h2>
-<p align = "center">
+<p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=boolean&theme=highcontrast&include_all_commits=boolean&hide_border=false&border_radius=50" alt="murad9288"/></a></p>
 <p>&nbsp;</p>
 <h2 align="left"><u>Github-readme-streak-stats ⇨</u></h2>
-<p align = "center">
+<p align ="center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=false&border_radius=70" alt="murad9288"/></a>
 </p>
 
-
+<p align ="center">
 <a><img src="https://picfont.com/c-t-device-e.php?a=19&b=0&c=Bu…&o2=255&op=no&v=1663444566&pg=yes&dst=no&dst_v=45" /></a>
-
+</p>
