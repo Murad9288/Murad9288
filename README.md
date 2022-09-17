@@ -72,4 +72,4 @@
 
 <a style="position:fixed;z-index:2000; !important;top:100px;right:30px;" href="http://www.snazzyspace.com/generators/viewer-counter/" title="SnazzySpace.com Viewer Counter" target="_blank"><img src="http://www.snazzyspace.com/generators/viewer-counter/counter.php/fid=1663362234/style=2/counter.png" border="20"></a>
 
-<a align = "left"><script language="JavaScript" src="http://freehostedscripts.net/clock.php?id=c2"></script></a>
+<a align = "left"><img src= "http://freehostedscripts.net/clock.php?id=c2" /></a>
