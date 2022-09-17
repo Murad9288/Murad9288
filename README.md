@@ -1,4 +1,4 @@
-***<h1 align="center">ASSALAMUALAYKUM &nbsp;&nbsp; OWARAHMATULLAH</h1>***
+**<h1 align="center">ASSALAMUALAYKUM &nbsp;&nbsp; OWARAHMATULLAH</h1>**
 
 #### HI! WELCOME TO MY GITHUB PROFILE HERE- 👋
 
