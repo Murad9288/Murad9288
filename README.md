@@ -65,7 +65,3 @@
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&hide_border=false&border_radius=70" alt="murad9288"/></a>
 </p>
-
-<p align ="center">
-<a><img src="https://www.canva.com/design/DAFMg-i4pws/INH2ECTwwGYBa2L4omuE-Q/watch?utm_content=DAFMg-i4pws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" /></a>
-</p>
