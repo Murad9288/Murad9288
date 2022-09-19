@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 
 <p>&nbsp;</p>
-<u><p align="center"><img src="https://im5.ezgif.com/tmp/ezgif-5-40ccf48edd.gif" /></p></u>
+<u><p align="center"><img src="https://im4.ezgif.com/tmp/ezgif-4-35fdc5f394.gif" /></p></u>
 <p>&nbsp;</p>
 <h2 align="left"><u>My Social & Blog Links:</u></h2>
 
