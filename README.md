@@ -17,7 +17,7 @@
 <p>&nbsp;</p>
 `<p align="center"><img src="https://im4.ezgif.com/tmp/ezgif-4-35fdc5f394.gif" /></p>`
 <p>&nbsp;</p>
-*<h2 align="left"><u>My Social & Blog Links:</u></h2>
+* <h2 align="left"><u>My Social & Blog Links:</u></h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
