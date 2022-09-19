@@ -70,4 +70,4 @@
 </p>
 
 
-<a><marquee style="background-color:#000080;"direction="right" loop="20" width="75%">This is a scrolling marquee</marquee></a>
+<a><marquee>This is a scrolling marquee</marquee></a>
