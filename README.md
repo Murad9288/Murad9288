@@ -4,7 +4,7 @@
 
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p>
 
-- 🔰  My name is <img src="https://im2.ezgif.com/tmp/ezgif-2-9c92adec30.gif" />
+- 🔰  My name is <a><img src="	https://im2.ezgif.com/tmp/ezgif-2-e74b862623.gif" /></>
 - 🔭 I’m currently working on competitive programming. 
 - 🌱 I’m currently learning iOS Development.
 - 👯 I’m looking to collaborate on various project and problems.
