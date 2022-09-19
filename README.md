@@ -46,9 +46,7 @@
 <a href="https://www.hackerearth.com/@muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyrwCDaNpgPhMs63qV4W7C_hKh1c-USwaq3ld0yRwaskRXneKAyBefw70VLhkVC4cYZvI&usqp=CAU" alt="@muradhossainm01" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://www.stopstalk.com/user/profile/Murad_Hossain_9014" target="blank">&nbsp;&nbsp;<img align="center" src="https://www.stopstalk.com/static/images/stopstalk-logo.png" alt="Murad_Hossain_9014" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://www.spoj.com/users/murad_928" target="blank">&nbsp;&nbsp;<img align="center" src="https://repository-images.githubusercontent.com/399813688/b38dcc0c-492f-49f0-a7a4-272876855a3e" alt="murad_928" height="30" width="40" />&nbsp;&nbsp;</a>
-  
 <a href="https://www.codegrepper.com/profile/md-murad-hossain" target="blank">&nbsp;&nbsp;<img align="center" src="https://styles.redditmedia.com/t5_4wfba1/styles/communityIcon_db5acdjldch71.png?width=256&s=017207444df01b7e7c747c1b0a5fbd45d00e8b77" alt="md-murad-hossain" height="30" width="40" />&nbsp;&nbsp;</a>
-  
 <a href="https://auth.geeksforgeeks.org/user/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="muradhossainm01" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://www.topcoder.com/members/murad_9288" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="50" width="50" />&nbsp;&nbsp;</a>
 </p>
