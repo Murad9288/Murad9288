@@ -69,5 +69,5 @@
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/></a>
 </p>
 
-<a>&nbsp;<img src="https://im2.ezgif.com/tmp/ezgif-2-5021b812e4.gif" alt="murad9288"/></a>
+<p align="center"><img src="https://im2.ezgif.com/tmp/ezgif-2-634b925b1e.gif" alt="murad9288"/></p>
 
