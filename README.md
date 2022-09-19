@@ -20,7 +20,7 @@
 <h2 align="left"><u>My Social & Blog Links:</u></h2>
 
 <p align="left">
-<a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="	https://e7.pngegg.com/pngimages/642/372/png-clipar…kedin-icons-no-attribution-miscellaneous-blue.png
+<a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://e7.pngegg.com/pngimages/642/372/png-clipar…kedin-icons-no-attribution-miscellaneous-blue.png
 " alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://fb.com/mdmurad.hossainmiraj.9" target="blank">&nbsp;&nbsp;<img align="center" src="https://c.tenor.com/i_GF76iSxg0AAAAi/fb-facebook.gif" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://twitter.com/murad_miraj" target="blank">&nbsp;&nbsp;<img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="murad_miraj" height="30" width="40" />&nbsp;&nbsp;</a>
