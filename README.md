@@ -4,7 +4,7 @@
 
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p>
 
-- 🔰  My name is MD Murad Hossain.
+- 🔰  My name is <img src="https://im2.ezgif.com/tmp/ezgif-2-9c92adec30.gif" />
 - 🔭 I’m currently working on competitive programming. 
 - 🌱 I’m currently learning iOS Development.
 - 👯 I’m looking to collaborate on various project and problems.
@@ -68,6 +68,5 @@
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/></a>
 </p>
-
 
 
