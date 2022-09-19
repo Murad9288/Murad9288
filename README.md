@@ -71,4 +71,4 @@
 
 
 <a><marquee>This is a scrolling marquee</marquee></a>
-<marquee>Watch this text scroll by!</marquee>
+<p><marquee>Watch this text scroll by!</marquee></p>
