@@ -60,7 +60,7 @@
 <p>&nbsp;</p>
 <h2 align="left"><u>My GitHub Readme Stats Card ⇨</u></h2>
 <p align ="center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=boolean&border_radius=50" alt="murad9288" /></a>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50" alt="murad9288" /></a>
 </p>
 
 <p>&nbsp;</p>
