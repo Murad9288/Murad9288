@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://c.tenor.com/2ZexrTx-QSQAAAAC/linkedin.gif" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://fb.com/mdmurad.hossainmiraj.9" target="blank">&nbsp;&nbsp;<img align="center" src="https://c.tenor.com/i_GF76iSxg0AAAAi/fb-facebook.gif" height="30" width="40" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/murad_miraj" target="blank">&nbsp;&nbsp;<img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIA…7EwO9l3s6b3M/I01N+39k0hUKA5h+dAAAAABJRU5ErkJggg==" alt="murad_miraj" height="30" width="40" />&nbsp;&nbsp;</a>
+<a href="https://twitter.com/murad_miraj" target="blank">&nbsp;&nbsp;<img align="center" src="https://p7.hiclipart.com/preview/1003/571/794/blue-aqua-beak-sky-bird-twitter-thumbnail.jpg" alt="murad_miraj" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://instagram.com/e_m__murad__hossain" target="blank">&nbsp;&nbsp;<img align="center" src="https://media2.giphy.com/media/QZOxRp5tZTemNQzpgc/200.gif" alt="e_m__murad__hossain" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://join.skype.com/invite/WYiyPQob1ekJ" target="blank">&nbsp;&nbsp;<img align="center" src="https://www.freepnglogos.com/uploads/skype-logo-png/skype-logo-microsoft-forces-upgrade-retires-skype-classic-19.png" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://stackoverflow.com/users/18079492" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079492" height="30" width="40" />&nbsp;&nbsp;</a>
