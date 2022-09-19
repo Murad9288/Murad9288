@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://s-media-cache-ak0.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.jpg" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://fb.com/mdmurad.hossainmiraj.9" target="blank">&nbsp;&nbsp;<img align="center" src="https://thumbs.gfycat.com/GoodnaturedFocusedFugu-max-1mb.gif" alt="mdmurad.hossainmiraj.9" height="30" width="40" />&nbsp;&nbsp;</a>
-<a href="https://twitter.com/murad_miraj" target="blank">&nbsp;&nbsp;<img align="center" src="https://thumbs.gfycat.com/GoodnaturedFocusedFugu-max-1mb.gif" alt="murad_miraj" height="30" width="40" />&nbsp;&nbsp;</a>
+<a href="https://twitter.com/murad_miraj" target="blank">&nbsp;&nbsp;<img align="center" src="https://cliply.co/wp-content/uploads/2021/09/CLIPLY_372109260_TWITTER_LOGO_400.gif" alt="murad_miraj" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://instagram.com/e_m__murad__hossain" target="blank">&nbsp;&nbsp;<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/1-instagram.gif" alt="e_m__murad__hossain" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://join.skype.com/invite/WYiyPQob1ekJ" target="blank">&nbsp;&nbsp;<img align="center" src="https://www.freepnglogos.com/uploads/skype-logo-png/skype-logo-microsoft-forces-upgrade-retires-skype-classic-19.png" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://stackoverflow.com/users/18079492" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079492" height="30" width="40" />&nbsp;&nbsp;</a>
