@@ -5,7 +5,7 @@
 
 - 🔰  My name is <a><img src="https://im2.ezgif.com/tmp/ezgif-2-a5d0214924.gif" /></a>
 - 🔭 I’m currently working on competitive programming. 
-- 🌱 I’m currently learning iOS Development.<p align="right"><img src="https://media1.giphy.com/media/eguY9avVyt3hGzsJVj/giphy.gif?cid=6c09b952d3f119536837a29173a76d77bef042de89eb0d78&rid=giphy.gif&ct=s" /></p>
+- 🌱 I’m currently learning iOS Development.<p align="right"><img src="https://media1.giphy.com/media/eguY9avVyt3hGzsJVj/giphy.gifcid=6c09b952d3f119536837a29173a76d77bef042de89eb0d78&rid=giphy.gif&ct=s" /></p>
 - 👯 I’m looking to collaborate on various project and problems.
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 🤔 I’m looking for help with iOS development project learning.
