@@ -1,11 +1,6 @@
 # <p align="center"><img src="https://im.ezgif.com/tmp/ezgif-1-bae011a25b.gif" alt="Murad9288"/></p>
-
-
-
 ### HI! WELCOME TO MY GITHUB PROFILE HERE - 👋
-
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p>
-
 - 🔰  My name is <a><img src="https://im2.ezgif.com/tmp/ezgif-2-a5d0214924.gif" /></a>
 - 🔭 I’m currently working on competitive programming. 
 - 🌱 I’m currently learning iOS Development.
@@ -16,7 +11,7 @@
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 <p>&nbsp;</p>
-<p align="center"><u><img src="https://im5.ezgif.com/tmp/ezgif-5-2952db951d.gif" /></u></p>
+<p align="center"><u><img src="https://im5.ezgif.com/tmp/ezgif-5-478ca46b19.gif" /></u></p>
 
 <h2 align="left"><u>My Social & Blog Links:</u></h2>
 
@@ -34,7 +29,6 @@
 </p>
 <p>&nbsp;</p>
 <h2 align="left"><u>My Competitive Programming Website Links:</u></h2>
-
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
 <a href="https://www.codechef.com/users/md_murad_01" target="blank">&nbsp;&nbsp;<img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="md_murad_01" height="30" width="40" />&nbsp;&nbsp;</a>
