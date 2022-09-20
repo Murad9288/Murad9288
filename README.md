@@ -1,4 +1,6 @@
-# <p align="center"><img src="https://im.ezgif.com/tmp/ezgif-1-bae011a25b.gif" alt="murad9288"/></p>
+# <p align="center"><img src="https://drive.google.com/drive/u/0/my-drive" alt="murad9288"/></p>
+
+
 
 ### HI! WELCOME TO MY GITHUB PROFILE HERE - 👋
 
