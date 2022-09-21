@@ -3,7 +3,7 @@
 ### HI! WELCOME TO MY GITHUB PROFILE HERE - 👋
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p>
 
-- 🔰  My name is <a><img src="https://im2.ezgif.com/tmp/ezgif-2-a5d0214924.gif" /></a>
+- 🔰  My name is MD Murad Hossain.
 - 🔭 I’m currently working on competitive programming. 
 - 🌱 I’m currently learning iOS Development.
 - 💬 Ask me about: Competitive programming & problem discussion.
@@ -14,7 +14,7 @@
 
 
 <p>&nbsp;</p>
-<p align="center"><u><img src="https://im5.ezgif.com/tmp/ezgif-5-478ca46b19.gif" /></u></p>
+<p align="center"><u>A Passionate iOS Developer From Bangladesh</u></p>
 
 <h2 align="left"><u>My Social & Blog Links:</u></h2>
 
