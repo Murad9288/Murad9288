@@ -12,7 +12,6 @@
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 
-<body><p style="color:#FF0000";>Roses are red</p></body>
 <p>&nbsp;</p>
 <h1><p align="center"><u>A Passionate iOS Developer From Bangladesh</u></p></h1>
 
