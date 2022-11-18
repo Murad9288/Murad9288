@@ -14,7 +14,7 @@
 
 <h1><p align="center"><img src="./Image sample/4.gif" /></p></h1>
 
-<h2 style="color:#800080";><u>My Social & Blog Links:</u></h2>
+<h2 style="color:#800080";><u>Social & Blog Links:</u></h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
@@ -29,7 +29,7 @@
 <a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
 </p>
 
-<h2 align="left"><u>My Competitive Programming Website Links:</u></h2>
+<h2 align="left"><u>Competitive Programming Website Links:</u></h2>
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
 <a href="https://www.codechef.com/users/md_murad_01" target="blank">&nbsp;&nbsp;<img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="md_murad_01" height="30" width="40" />&nbsp;&nbsp;</a>
@@ -49,22 +49,22 @@
 
 
  
-<h2 align="left"><marquee>MY Skill of Languages and Tools:</marquee></h2>
+<h2 align="left"><marquee>Skill of Languages and Tools:</marquee></h2>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a>
 </p>
 
-<h2 align="left"><u>My Github Readme Percentage of Languages Used Card ⇨</u></h2>
+<h2 align="left"><u>Github Readme Percentage of Languages Used Card ⇨</u></h2>
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=react" alt="murad9288"/></a>
 </p>
 
-<h2 align="left"><u>My GitHub Readme Stats Card ⇨</u></h2>
+<h2 align="left"><u>GitHub Readme Stats Card ⇨</u></h2>
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50" alt="murad9288" /></a>
 </p>
 
 
-<h2 align="left"><u>My GitHub Readme Streak Stats Card ⇨</u></h2>
+<h2 align="left"><u>GitHub Readme Streak Stats Card ⇨</u></h2>
 <p align ="center">
 <a>&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/></a>
 </p>
