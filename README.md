@@ -2,7 +2,7 @@
 
 ### HI! WELCOME TO MY GITHUB PROFILE HERE - 👋
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p>
-<p aling = "bottum"><img src = "https://camo.githubusercontent.com/e2e893c46cc021f3ac27bb66cd3d99c385e654562c08c65654ef467c58bcc182/68747470733a2f2f677076632e6172747572696f2e6465762f536861686a616c616c53686f686167" alt = "murad9288" /></p>
+
 
 - 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<img src="./Image sample/reseltname.gif" />
 - 🔭 I’m currently working on competitive programming. 
