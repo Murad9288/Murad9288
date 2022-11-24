@@ -15,7 +15,7 @@
 
 |-|-|
 |--|--|--|
-<p align="center"><img src="./Image sample/github-user-contribution.svg" /></p>
+<p align="center"><img src="./Image sample/github-user-contribution.svg#gh-dark-mode-only" /></p>
 
 <h1><p align="center"><img src="./Image sample/4.gif" /></p></h1>
 
