@@ -15,7 +15,7 @@
 
 |<h1><p align="center"><img src="./Image sample/4.gif" /></p></h1>|
 |---|
-|<p align="center"><img src="./Image sample/snake.svg" width = '1000px' height = '300px' /></p>|
+|<p align="center"><img src="./Image sample/snake.svg" width = '1000px' height = '200px' /></p>|
 
 
 
