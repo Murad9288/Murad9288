@@ -5,7 +5,7 @@
 
   
 - 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<img src="./Image sample/reseltname.gif" />
-- 🔭 I’m currently working on competitive programming.    <p align = "right"><img src="./Image sample/reseltname.gif" /></p>
+- 🔭 I’m currently working on competitive programming.
 - 🌱 I’m currently learning iOS Development.
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 🤔 I’m looking for help with iOS development project learning.
