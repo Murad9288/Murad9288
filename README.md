@@ -13,7 +13,7 @@
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake dark](Murad9288-snake-dark.svg#gh-dark-mode-only)
 
 <h1><p align="center"><img src="./Image sample/4.gif" /></p></h1>
 
