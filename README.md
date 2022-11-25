@@ -61,12 +61,12 @@
 
 <h2 align="left"><u>Github Readme Percentage of Languages Used Card ⇨</u></h2>
 <p align ="center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=e4e2e2" alt="murad9288"/></a>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=merko" alt="murad9288"/></a>
 </p>
 
 <h2 align="left"><u>GitHub Readme Stats Card ⇨</u></h2>
 <p align ="center">
-<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50" alt="murad9288" /></a>
+<a>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" /></a>
 </p>
 
 
