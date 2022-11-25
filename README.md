@@ -16,7 +16,7 @@
 
 |<p align="center"><img src="./Image sample/4.gif" /></p>|
 |---|
-|<p align="center"><img src="./Image sample/snake.svg" width = '1000px' height = '185px' /></p>|
+|<p align="center"><img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" width = '1000px' height = '185px' /></p>|
 
 
 
