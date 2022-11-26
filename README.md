@@ -81,7 +81,7 @@
   
 |Github Readme Percentage of Languages Used Card ⤵️|
 |---|
-|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="230px"/>|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="150px"/>|
 </div>
 
 
