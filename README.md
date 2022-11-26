@@ -14,10 +14,13 @@
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
 <br/>
 
-|<p align="center"><img src="./Image sample/4.gif" /></p>|
-|---|
-|<p align="center"><img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" width = '1000px' height = '185px' /></p>|
+<div align="center">
 
+|<img src="./Image sample/4.gif" />|
+|---|
+|<img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" width = '1000px' height = '185px' />|
+  
+</div>
 
 <h2 style="color:#800080";><u>Social & Blog Links:</u></h2>
 
@@ -60,9 +63,10 @@
 
 <div align="center">
 
-1 | 2
+Github Readme Percentage of Languages Used Card ⇨ | 
 :---| :---:
- <img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288"/>| <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288"/>| <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/>
+  
 </div>
 
 
@@ -70,11 +74,12 @@
 
 <div align="center">
   
-|First Stage|
+|Github Readme Percentage of Languages Used Card ⇨| GitHub Readme Streak Stats Card ⇨
 |---|
-|<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>|
+|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=merko" alt="murad9288"/>|
   
 </div>
+
 
 <h2 align="left"><u>Github Readme Percentage of Languages Used Card ⇨</u></h2>
 <p align ="center">
