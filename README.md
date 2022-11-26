@@ -16,9 +16,9 @@
 
 <div align="center">
 
-|<img src="./Image sample/4.gif" />|
+|<p aling="center"><img src="./Image sample/4.gif" /></p>|
 |---|
-|<img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" width = '1000px' height = '185px' />|
+|<p aling="center"><img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" width = '1000px' height = '185px' /></p>|
   
 </div>
 
@@ -76,7 +76,7 @@ Github Readme Percentage of Languages Used Card ⇨ | GitHub Readme Streak Stats
 
 <div align="center">
   
-|## Github Readme Percentage of Languages Used Card ⇨|
+|Github Readme Percentage of Languages Used Card ⇨|
 |--|
 |<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=merko" alt="murad9288"/></p>|
 </div>
