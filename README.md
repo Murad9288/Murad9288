@@ -58,10 +58,11 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a>
 </p>
 
-
-<p align = "center" >|First Stage|Zoom & Drag & Radius Crop|</p>
+<center>
+|First Stage|Zoom & Drag & Radius Crop|
 |---|---|
-<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>&nbsp;&nbsp;| &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>|</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>&nbsp;&nbsp;| &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>|
+</center>
 
 <h2 align="left"><u>Github Readme Percentage of Languages Used Card ⇨</u></h2>
 <p align ="center">
