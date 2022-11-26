@@ -59,9 +59,9 @@
 </p>
 
 
-<p align = "cente" >|First Stage|Zoom & Drag & Radius Crop|
+<p align = "center" >|First Stage|Zoom & Drag & Radius Crop|</p>
 |---|---|
-<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>&nbsp;&nbsp;| &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>|</p>
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>&nbsp;&nbsp;| &nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>|</p>
 
 <h2 align="left"><u>Github Readme Percentage of Languages Used Card ⇨</u></h2>
 <p align ="center">
