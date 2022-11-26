@@ -62,7 +62,7 @@
 
 1 | 2 | 3
 :--- | :---: | ---:
- <img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>| center | </br></br>right
+ <img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288"/>| center | </br></br>right
 </div>
 
 <center>
