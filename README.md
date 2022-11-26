@@ -79,7 +79,7 @@ Github Readme Stats Card ⤵️ | GitHub Readme Streak Stats Card ⤵️
   
 |Github Readme Percentage of Languages Used Card ⤵️|
 |---|
-|<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" width = "1000px" height="160px"/></p>|
+|<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" width = "1000px" height="150px"/></p>|
 </div>
 
 
