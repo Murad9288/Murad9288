@@ -64,19 +64,12 @@
 
 </br>
 
-<div align="center">
-
-| 1 | GitHub Readme Streak Stats Card ⤵️
-:---| :---:
-
-  
-</div>
 
 <div align="center">
   
 |Github Readme Stats Card ⤵️ |  GitHub Readme Streak Stats Card ⤵️
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=50&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288"/>|
   
 </div>
 
@@ -88,7 +81,7 @@
   
 |Github Readme Percentage of Languages Used Card ⤵️|
 |---|
-|<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" width = "1000px" height="150px"/></p>|
+|<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=50&border=#74DD0B" alt="murad9288" width = "1000px" height="150px"/></p>|
 </div>
 
 
