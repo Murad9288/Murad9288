@@ -60,7 +60,7 @@
 
 |GitHub Readme Stats Card ⇨|Github Readme Percentage of Languages Used Card ⇨|
 |---|---|
-|<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" width = '1050px' height = '200px'/> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border_color=merko" width = '990px' height = '180px' />|
+|<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" width = '1000px' height = '190px'/> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=70&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" width = '1000px' height = '190px' />|
 
 
 <h2 align="left"><u>Github Readme Percentage of Languages Used Card ⇨</u></h2>
