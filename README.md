@@ -60,9 +60,9 @@
 
 <div align="center">
 
-COLUMN&nbsp;&nbsp;&nbsp;1 | </br>COLUMN 2 | </br></br>COLUMN 3
+1 | 2 | 3
 :--- | :---: | ---:
-</br></br>left | center | </br></br>right
+ <img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" width = "200"/>| center | </br></br>right
 </div>
 
 <center>
