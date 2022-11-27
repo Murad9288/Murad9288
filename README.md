@@ -79,6 +79,5 @@
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|
 </div>
 
-
+<!-- Place this tag where you want the button to render. -->
 <github-button href="https://github.com/Murad9288/Problem_Solve_All_Oj" data-color-scheme="no-preference: light; light: light; dark: dark_high_contrast;" data-size="large" data-show-count="true" aria-label="Star Murad9288/Problem_Solve_All_Oj on GitHub">Star</github-button>
-
