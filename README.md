@@ -47,7 +47,7 @@
 
 </details>
 
-<details><summary><img src="./Image sample/GIF.gif"/></summary>
+<details><summary><h3>CLICK TO SEE MY SKILL IN LANGUAGES AND TOOLS: </h3> </summary>
   
 <div align="center">
   
@@ -58,6 +58,7 @@
 
 </details>
 
+</br>
 </br>
 
 
@@ -78,4 +79,5 @@
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|
 </div>
 
+<img src ="https://github.com/:Murad9288(follow)">
 
