@@ -47,7 +47,7 @@
 
 </details>
 
-<details><summary>|<img src="./Image sample/GIF.gif"</summary>
+<details><summary><img src="./Image sample/GIF.gif"/></summary>
   
 <div align="center">
   
