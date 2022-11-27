@@ -29,7 +29,8 @@
 
 
 
-<details><summary>Click to see my Social & Blog links: </summary>
+|<details><summary>Click to see my Social & Blog links: </summary>|
+|-|
 <p>
 
 #### We can hide anything, even code!
