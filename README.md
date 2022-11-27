@@ -24,7 +24,7 @@
 
 
 
-<details><summary>`CLICK TO SEE MY SOCIAL & BLOG LINKS: 🤏`</h3></summary>
+<details><summary><h3>`CLICK TO SEE MY SOCIAL & BLOG LINKS: 🤏`</h3></h3></summary>
 
 <div align = "center">
 
@@ -35,7 +35,7 @@
 </details>
 
 
-<details><summary>`CLICK TO SEE MY COMPETITIVE PROGRAMMING WEBSITE LINKS: 🤏`</summary>
+<details><summary><h3>`CLICK TO SEE MY COMPETITIVE PROGRAMMING WEBSITE LINKS: 🤏`</h3></summary>
 <h4><p align = "center">Please scroll horizontally to see all social and blog links ➡ </p></h4>
 <div align="center">
 
@@ -80,5 +80,4 @@
 </div>
 
 
-# `ImagePickerCropView_Full_APP`
 
