@@ -16,7 +16,7 @@
 
 <div align="center">
 
-|<p aling="center"><img src="./Image sample/4.gif" /></p>|
+|<p aling="center">🔥<img src="./Image sample/4.gif" /></p>|
 |-|
 |<p aling="center"><img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" width = '1000px' height = '185px' /></p>|
   
