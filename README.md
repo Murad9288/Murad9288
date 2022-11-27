@@ -22,7 +22,16 @@
   
 </div>
 
-<h2 style="color:#800080";><u>Social & Blog Links:</u></h2>
+<h3 style="color:#800080";><u>Social & Blog Links:</u></h3>
+
+<div align="center">
+  
+|Social & Blog Links: ⤵️|
+|---|
+| <p align ="center">< height="140px" width = "1000px" /></p>|
+</div>
+
+
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
@@ -38,7 +47,7 @@
 </p>
 
 
-<h2 align="left"><u>Competitive Programming Website Links:</u></h2>
+<h3 align="left"><u>Competitive Programming Website Links:</u></h3>
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
 <a href="https://www.codechef.com/users/md_murad_01" target="blank">&nbsp;&nbsp;<img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="md_murad_01" height="30" width="40" />&nbsp;&nbsp;</a>
