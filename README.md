@@ -46,7 +46,7 @@
 
 
 |<h3>Competitive Programming Website Links: ⤵</h3>|
-||
+|-|
 
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
@@ -66,7 +66,7 @@
 </p>
 
 |<h3>Skill of Languages and Tools: ⤵</h3>|
-||
+|-|
  
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a>
 </p>
@@ -77,7 +77,7 @@
 <div align="center">
   
 |Github Readme Stats Card ⤵️ |  GitHub Readme Streak Stats Card ⤵️
-|||
+|-|-|
 |<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" height ="200px"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=50&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="200px" />|
   
 </div>
@@ -89,7 +89,7 @@
 <div align="center">
   
 |Github Readme Percentage of Languages Used Card ⤵️|
-||
+|-|
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|
 </div>
 
