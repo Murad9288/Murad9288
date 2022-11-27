@@ -26,13 +26,13 @@
 
 <details><summary><h2>Click to see my social & blog links: ⤵</h2></summary>
 
-  <p>
+<p>
 
-  ## Social & Blog Links:
-    |4|
-    |-|
+## Social & Blog Links:
+|4|
+|-|
 
-  </p>
+</p>
 
 </details>
 
