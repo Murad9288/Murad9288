@@ -24,12 +24,12 @@
 
 <h3 style="color:#800080";><u>Social & Blog Links:</u></h3>
 
-<div align="center">
+
   
 |Social & Blog Links: ⤵️|
 |---|
-| <p align ="center">< height="140px" width = "1000px" /></p>|
-</div>
+| height="140px" width = "1000px"|
+
 
 
 
