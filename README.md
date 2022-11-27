@@ -24,7 +24,7 @@
 
 
   
-|<h3>Social & Blog Links: ⤵</h3>|
+|<h3><img src = "Social & Blog Links: ⤵" width ="1000px" </h3>|
 |-|
 
 
