@@ -34,9 +34,9 @@
 
 #### We can hide anything, even code!
 
-```link
-  
-  <p align="left"><a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
+
+<p align="left">
+<a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://fb.com/mdmurad.hossainmiraj.9" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/facebook-image-png/filefacebook-logopng-wikimedia-commons.png" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://twitter.com/murad_miraj" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/twitter-bird-logo-png/download-twitter-bird-twitter-logo-png-png-image-with-no-background--pngkeycom.png" alt="murad_miraj" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://instagram.com/e_m__murad__hossain" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/icon-png/fileinstagram-iconpng-wikimedia-commons.png" alt="e_m__murad__hossain" height="30" width="40" />&nbsp;&nbsp;</a>
@@ -48,10 +48,6 @@
 <a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
 </p>
 
-  
-  
-   
-```
 
 </p>
 </details>
