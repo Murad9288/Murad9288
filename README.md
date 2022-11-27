@@ -29,7 +29,7 @@
 
 
 
-<details><summary>CLICK ME</summary>
+<details><summary><h3>CLICK ME</h3></summary>
 <p>
 
 #### We can hide anything, even code!
