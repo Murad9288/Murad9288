@@ -28,7 +28,7 @@
   
 |Social & Blog Links: ⤵️|
 |---|
-| height="140px" width = "1000px"|
+||
 
 
 
