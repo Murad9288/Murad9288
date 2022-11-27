@@ -24,7 +24,7 @@
 
 
 
-<details><summary><h3>CLICK TO SEE MY SOCIAL & BLOG LINKS: 🤏🏻</h3></summary>
+<details><summary><h3>CLICK TO SEE MY SOCIAL & BLOG LINKS: 🤏</h3></summary>
 
 <div align = "center">
 
@@ -47,7 +47,7 @@
 
 </details>
 
-<details><summary><h3>CLICK TO SEE MY SKILL IN LANGUAGES AND TOOLS: 🤏🏻</h3> </summary>
+<details><summary><h3>CLICK TO SEE MY SKILL IN LANGUAGES AND TOOLS: 🤏</h3> </summary>
   
 <div align="center">
   
