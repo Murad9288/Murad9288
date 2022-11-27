@@ -29,9 +29,9 @@
 
 
 
-<details><summary><h2>Click to see my Social & Blog links: </summary>
+<details><summary><h2><u>Click to see my Social & Blog links: </u></h2></summary>
 
-<p></h2>
+<p>
 
 #### We can hide anything, even code!
 
