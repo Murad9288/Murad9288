@@ -33,7 +33,6 @@
 </p>
 </details>
 
-</br>
 
 <details><summary><h2>Click to see my competitive programming website links ⤵:</h2></summary>
   
@@ -47,8 +46,7 @@
 </details>
 
 
-|<h3>Competitive Programming Website Links: ⤵</h3>|
-|-|
+# Competitive Programming Website Links: ⤵
 
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
