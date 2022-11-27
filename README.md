@@ -33,7 +33,7 @@
 
 <p>
 
-#### We can hide anything, even code!
+ <h3> We can hide anything, even code! </h3>
 
 
 <p align="left">
