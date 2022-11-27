@@ -22,11 +22,9 @@
   
 </div>
 
-<h3 style="color:#800080";><u>Social & Blog Links:</u></h3>
-
 
   
-# |Social & Blog Links: ⤵️|
+|<h3>Social & Blog Links: ⤵</h3>|
 |---|
 
 
@@ -47,7 +45,9 @@
 </p>
 
 
-<h3 align="left"><u>Competitive Programming Website Links:</u></h3>
+|<h3>Competitive Programming Website Links: ⤵</h3>|
+|---|
+
 <p align="left">
 <a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>
 <a href="https://www.codechef.com/users/md_murad_01" target="blank">&nbsp;&nbsp;<img align="center" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" alt="md_murad_01" height="30" width="40" />&nbsp;&nbsp;</a>
@@ -65,9 +65,9 @@
 <a href="https://www.topcoder.com/members/murad_9288" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="murad_9288" height="50" width="50" />&nbsp;&nbsp;</a>
 </p>
 
-
+|<h3>Skill of Languages and Tools: ⤵</h3>|
+|---|
  
-<h3 align="left"><marquee>Skill of Languages and Tools:</marquee></h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;&nbsp;</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp;</a>
 </p>
 
