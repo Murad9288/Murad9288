@@ -25,16 +25,16 @@
 </br>
 
 <details><summary><h2>Click to see my social & blog links: ⤵</h2></summary>
-  
+
   <p>
 
   ## Social & Blog Links:
-  |<a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>||||||||||
-  |-|-|-|-|-|-|-|-|-|-|-|
+    |4|
+    |-|
 
   </p>
-</details>
 
+</details>
 
 
 
