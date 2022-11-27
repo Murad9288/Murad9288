@@ -47,7 +47,7 @@
 
 </details>
 
-<details><summary><h2>Click to see my Skill of Languages and Tools: ⤵</h2></summary>
+<details><summary>|<img src="./Image sample/GIF.gif"</summary>
   
 <div align="center">
   
