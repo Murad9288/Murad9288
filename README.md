@@ -22,6 +22,7 @@
   
 </div>
 
+</br>
 
 <details><summary><h2>Click to see my social & blog links: ⤵</h2></summary>
   
