@@ -30,7 +30,7 @@
 
 
 |<details><summary>Click to see my Social & Blog links: </summary>|
-|-|
+|
 <p>
 
 #### We can hide anything, even code!
@@ -47,7 +47,7 @@
 <a href="https://dribbble.com/murad_hossain-m01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="murad_hossain-m01" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://www.youtube.com/c/MHM Programming CLUB" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MHM Programming CLUB" height="30" width="40" />&nbsp;&nbsp;</a>
 <a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>
-</p>
+</p>|
 
 
 </p>
