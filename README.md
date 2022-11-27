@@ -41,7 +41,7 @@
 |<a href="https://linktr.ee/murad9288" target="blank">&nbsp;&nbsp;<img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" alt="murad9288" height="30" width="40" />&nbsp;&nbsp;</a>|
 |<a href="https://stackoverflow.com/users/18079492" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18079492" height="30" width="40" />&nbsp;&nbsp;</a>|
 
-|-|-|-|-|-|-|
+|-|-|-|-|-|
 
 
 </p>
