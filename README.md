@@ -35,7 +35,7 @@
 </details>
 
 
-<details><summary><h3>CLICK TO SEE MY COMPETITIVE PROGRAMMING WEBSITE LINKS: 🤏🏻</h3></summary>
+<details><summary> # CLICK TO SEE MY COMPETITIVE PROGRAMMING WEBSITE LINKS: 🤏🏻</summary>
 
 <div align="center">
   
