@@ -24,6 +24,7 @@
 
 
 <details><summary><h2>Click to see my social & blog links: ⤵</h2></summary>
+  
 <p>
   
 ## Social & Blog Links:
@@ -34,16 +35,7 @@
 </details>
 
 
-<details><summary><h2>Click to see my competitive programming website links ⤵:</h2></summary>
-  
-<p>
-  
-## Competitive Programming Website Links :
-|<a href="https://www.hackerrank.com/muradhossainm01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muradhossainm01" height="40" width="50" />&nbsp;&nbsp;</a>|
-|-|
 
-</p>
-</details>
 
 
 # Competitive Programming Website Links: ⤵
