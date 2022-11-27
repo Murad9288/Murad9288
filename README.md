@@ -79,3 +79,6 @@
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|
 </div>
 
+
+# `ImagePickerCropView_Full_APP`
+
