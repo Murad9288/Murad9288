@@ -50,14 +50,9 @@
 </details>
 
 <details><summary><h2>Click to see my Skill of Languages and Tools: ⤵</h2></summary>
-
-<p>
-
-## Skill of Languages and Tools:
+  
 |5|
 |-|
-
-</p>
 
 </details>
 
