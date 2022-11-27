@@ -29,7 +29,7 @@
 
 
 
-<details><h2><summary>Click to see my Social & Blog links: </summary></h2>
+<details><summary><h2>Click to see my Social & Blog links: </h2></summary>
 
 <p>
 
