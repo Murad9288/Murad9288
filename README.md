@@ -64,7 +64,7 @@
 
 <div align="center">
   
-|Github Readme Stats Card ⤵️ |  GitHub Readme Streak Stats Card ⤵️
+|🔥 Github Readme Stats Card ⤵️ |🔥 GitHub Readme Streak Stats Card ⤵️
 |-|-|
 |<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" height ="200px"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=50&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="200px" />|
   
@@ -74,7 +74,7 @@
 
 <div align="center">
   
-|Github Readme Percentage of Languages Used Card ⤵️|
+|🔥 Github Readme Percentage of Languages Used Card ⤵️|
 |-|
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|
 </div>
