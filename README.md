@@ -44,7 +44,7 @@
 |<a href="https://dribbble.com/murad_hossain-m01" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="murad_hossain-m01" height="30" width="40" />&nbsp;&nbsp;</a>|
 |<a href="https://www.youtube.com/c/MHM Programming CLUB" target="blank">&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="MHM Programming CLUB" height="30" width="40" />&nbsp;&nbsp;</a>|
 |<a href="https://discord.gg/murad928#7964" target="blank">&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="murad928#7964" height="35" width="45" />&nbsp;&nbsp;</a>|
-  |-|-|-|-|-|-|-|-|-|-|
+  |-|-|-|-|-|-|-|-|-|
 
 <p align="left">
 <a href="https://linkedin.com/in/mhmprogrammer81818" target="blank">&nbsp;&nbsp;<img align="center" src="https://cutewallpaper.org/24/linkedin-logo-png-transparent-background/linkedin-logo-png-free-transparent-png-logos.png" alt="mhmprogrammer81818" height="30" width="40" />&nbsp;&nbsp;</a>
