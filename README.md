@@ -77,9 +77,9 @@
 
 <div align="center">
   
-|🔥 Github Readme Percentage of Languages Used Card ⤵️|
-|-|
-| <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|
+|🔥 Github Readme Percentage of Languages Used Card ⤵️|2|
+|-|-|
+| <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px"/></a>|
   
 </div>
 
