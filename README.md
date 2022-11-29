@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on competitive programming.
 - 🌱 I’m currently learning iOS Development.
 - 💬 Ask me about: Competitive programming & problem discussion.
-- 🤔 I’m looking for help with iOS development project learning.
+- 💞️ I’m looking for help with iOS development project learning.
 - 😄 Pronouns: He/His. 
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
