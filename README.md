@@ -1,7 +1,9 @@
 <p align ="center"><img src="./Image sample/result2.gif" /></p>
 
 ### HI! WELCOME TO MY GITHUB PROFILE HERE - 👋 
-<img align="right" width="250" height="250" src="./Image sample/muradm.gif">
+
+<img align="right" width="250" height="250" src="./Image sample/m4.gif">
+
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p> 
 
   
