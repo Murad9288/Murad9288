@@ -2,10 +2,10 @@
 
 ### HI! WELCOME TO MY GITHUB PROFILE HERE - 👋
 <p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p>
-
+<img align="right" width="250" height="250" src="./Image sample/m3.gif">
   
 - 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<img src="./Image sample/reseltname.gif" />
-- 🔭 I’m currently working on competitive programming. <img align="right" width="200" height="200" src="./Image sample/m3.gif">
+- 🔭 I’m currently working on competitive programming.
 - 🌱 I’m currently learning iOS Development.
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 🤔 I’m looking for help with iOS development project learning.
