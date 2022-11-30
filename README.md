@@ -8,8 +8,7 @@
 
   
 - 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<img src="./Image sample/reseltname.gif" height = "15px"/>
-- 🔭 I’m currently working on competitive programming.
-- 🌱 I’m currently learning iOS Development.
+- 🌱 I’m currently working iOS Development.
 - 💬 Ask me about: Competitive programming & problem discussion.
 - 💞️ I’m looking for help with iOS development project learning.
 - 😄 Pronouns: He/His. 
