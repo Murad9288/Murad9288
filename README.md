@@ -4,7 +4,8 @@
 
 <img align="right" width="230px" height="220px" src="./Image sample/muradm.gif">
 
-<p align="bottum"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" /><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></p> 
+|<img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="30" width="40" />|<img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" />|
+|-|-|
 
   
 - 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<img src="./Image sample/reseltname.gif" height = "15px"/>
