@@ -1,6 +1,6 @@
 <p align ="center"><img src="./Image sample/result2.gif" /></p>
 
-### HI THERE! WELCOME TO MY GITHUB PROFILE - 👋 
+### `HI THERE! WELCOME TO MY GITHUB PROFILE - 👋 `
 
 <img align="right" width="230px" height="220px" src="./Image sample/muradm.gif">
 
