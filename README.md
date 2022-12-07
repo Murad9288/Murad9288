@@ -42,7 +42,7 @@
   
 <div align="center">
   
-|Python|C|Swift|C++|Figma|Fire base|Git|
+|Python|&nbsp;&nbsp;&nbsp;C&nbsp;&nbsp;&nbsp;|Swift|C++|Figma|Fire base|&nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp;|
 |-|-|-|-|-|-|-|
 |<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40px" height="40px"/></a> | <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40px" height="40px"/></a> | <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40px" height="40px"/></a> |<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40px" height="40px"/></a> | <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40px" height="40px"/></a> | <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40px" height="40px"/></a> | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40px" height="40px"/></a>|
   
