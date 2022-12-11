@@ -27,7 +27,7 @@
 
 
 
-<details><summary><h2>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></h2></summary>
+<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
 
 <div align = "center">
   
@@ -70,7 +70,7 @@
 
 <div align="center">
   
-|🔥 Github Readme Stats Card ⤵️ |🔥 GitHub Readme Streak Stats Card ⤵️
+|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
 |-|-|
 |<img src="https://github-readme-stats.vercel.app/api?username=Murad9288&show_icons=true&theme=highcontrast&include_all_commits=true&border_radius=50&border_color=merko" alt="murad9288" height ="200px"/> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=50&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="200px" />|
   
@@ -80,7 +80,7 @@
 
 <div align="center">
   
-|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 Country Rank By stardev.io ⤵️|
+|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙲𝚘𝚞𝚗𝚝𝚛𝚢 𝚁𝚊𝚗𝚔 𝙱𝚢 𝚜𝚝𝚊𝚛𝚍𝚎𝚟.𝚒𝚘 ⤵️|
 |-|-|
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="135px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width="1000px"/></a>|
   
