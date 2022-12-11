@@ -27,7 +27,7 @@
 
 
 
-<details><summary><h2>`𝑪𝑳𝑰𝑪𝑲 &nbsp;&nbsp; 𝑻𝑶 &nbsp;&nbsp; 𝑺𝑬𝑬 &nbsp;&nbsp; 𝑴𝒀 &nbsp;&nbsp; 𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp;&nbsp; & &nbsp;&nbsp; 𝑩𝑳𝑶𝑮 &nbsp;&nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></h2></summary>
+<details><summary><h2>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></h2></summary>
 
 <div align = "center">
   
@@ -38,7 +38,7 @@
 </details>
 
 
-<details><summary><h3>`CLICK TO SEE MY SKILL IN LANGUAGES AND TOOLS:` 🤏</h3> </summary>
+<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑺𝑲𝑰𝑳𝑳 &nbsp; 𝑰𝑵 &nbsp; 𝑳𝑨𝑵𝑮𝑼𝑨𝑮𝑬𝑺 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑻𝑶𝑶𝑳𝑺:` 🤏</h3> </summary>
   
 <div align="center">
   
@@ -51,7 +51,7 @@
 </details>
 
 
-<details><summary><h3>`CLICK TO SEE MY COMPETITIVE PROGRAMMING WEBSITE LINKS:` 🤏</h3></summary>
+<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑪𝑶𝑴𝑷𝑬𝑻𝑰𝑻𝑰𝑽𝑬 &nbsp; 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑰𝑵𝑮 &nbsp; 𝑾𝑬𝑩𝑺𝑰𝑻𝑬 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
 <h4><p align = "center">Please scroll horizontally to see all social and blog links ➡ </p></h4>
 <div align="center">
 
@@ -80,7 +80,7 @@
 
 <div align="center">
   
-|🔥 Github Readme Languages Used Card ⤵️|🔥 Country Rank By stardev.io ⤵️|
+|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 Country Rank By stardev.io ⤵️|
 |-|-|
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="135px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width="1000px"/></a>|
   
