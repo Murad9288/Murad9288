@@ -27,7 +27,7 @@
 
 
 
-<details><summary><h3>`CLICK TO SEE MY SOCIAL & BLOG LINKS:` 🤏</h3></h3></summary>
+<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 𝑻𝑶 𝑺𝑬𝑬 𝑴𝒀 𝑺𝑶𝑪𝑰𝑨𝑳 & 𝑩𝑳𝑶𝑮 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></h3></summary>
 
 <div align = "center">
   
