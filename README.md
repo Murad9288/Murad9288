@@ -52,10 +52,10 @@
 
 </details>
 
-```sh
 
 
-<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑪𝑶𝑴𝑷𝑬𝑻𝑰𝑻𝑰𝑽𝑬 &nbsp; 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑰𝑵𝑮 &nbsp; 𝑾𝑬𝑩𝑺𝑰𝑻𝑬 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
+
+<details><summary><h3>```sh 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑪𝑶𝑴𝑷𝑬𝑻𝑰𝑻𝑰𝑽𝑬 &nbsp; 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑰𝑵𝑮 &nbsp; 𝑾𝑬𝑩𝑺𝑰𝑻𝑬 &nbsp; 𝑳𝑰𝑵𝑲𝑺: 🤏```</h3></summary>
 <h4><p align = "center">Please scroll horizontally to see all social and blog links ➡ </p></h4>
 <div align="center">
 
@@ -67,7 +67,6 @@
 
 </details>
 
-```
 </br>
 
 
