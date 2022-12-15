@@ -1,9 +1,7 @@
 <p align ="center"><img src="./Image sample/result2.gif" /></p>
 
 
-```sh
-𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋
-```
+
 ### `𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋 `
 
 <img align="right" width="230px" height="220px" src="./Image sample/muradm.gif">
@@ -54,6 +52,8 @@
 
 </details>
 
+```sh
+
 
 <details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑪𝑶𝑴𝑷𝑬𝑻𝑰𝑻𝑰𝑽𝑬 &nbsp; 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑰𝑵𝑮 &nbsp; 𝑾𝑬𝑩𝑺𝑰𝑻𝑬 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
 <h4><p align = "center">Please scroll horizontally to see all social and blog links ➡ </p></h4>
@@ -67,7 +67,7 @@
 
 </details>
 
-
+```
 </br>
 
 
