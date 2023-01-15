@@ -56,7 +56,7 @@
 
 
 <details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑪𝑶𝑴𝑷𝑬𝑻𝑰𝑻𝑰𝑽𝑬 &nbsp; 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑰𝑵𝑮 &nbsp; 𝑾𝑬𝑩𝑺𝑰𝑻𝑬 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
-<h4><p align = "center">Please scroll horizontally to see all social and blog links ➡ </p></h4>
+<h4><p align = "center">Please scroll horizontally to see all blog links ➡ </p></h4>
 <div align="center">
 
 |&nbsp;&nbsp;&nbsp;Hackerrank&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CodeChef&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Codeforces&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toph&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;Beecrowd&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;LeetCode&nbsp;&nbsp;&nbsp;&nbsp;|CodeMarshal|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Atcoder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;HackerEarth&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;StopStalk&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPOJ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;CodeGrepper&nbsp;&nbsp;|GeeksforGeeks|&nbsp;&nbsp;&nbsp;&nbsp;TopCoder&nbsp;&nbsp;&nbsp;&nbsp;|
