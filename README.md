@@ -29,7 +29,7 @@
 
 
 
-<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
+<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
 
 <div align = "center">
   
@@ -40,7 +40,7 @@
 </details>
 
 
-<details><summary><h3>`𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑻𝑶 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑺𝑲𝑰𝑳𝑳 &nbsp; 𝑰𝑵 &nbsp; 𝑳𝑨𝑵𝑮𝑼𝑨𝑮𝑬𝑺 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑻𝑶𝑶𝑳𝑺:` 🤏</h3> </summary>
+<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑺𝑲𝑰𝑳𝑳𝑺 &nbsp; 𝑰𝑵 &nbsp; 𝑳𝑨𝑵𝑮𝑼𝑨𝑮𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑻𝑶𝑶𝑳𝑺:` 🤏</h3> </summary>
   
 <div align="center">
   
@@ -55,7 +55,7 @@
 
 
 
-<details><summary><h3>`𝙋𝙇𝙀𝘼𝙎𝙀 𝘾𝙇𝙄𝘾𝙆 𝙈𝙀 𝘼𝙉𝘿 𝙎𝙀𝙀 𝙈𝙔 𝘾𝙊𝙈𝙋𝙀𝙏𝙄𝙏𝙄𝙑𝙀 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙄𝙉𝙂 𝙒𝙀𝘽𝙎𝙄𝙏𝙀 𝙇𝙄𝙉𝙆𝙎` 🤏</h3></summary>
+<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp; 𝑪𝑶𝑴𝑷𝑬𝑻𝑰𝑻𝑰𝑽𝑬 &nbsp; 𝑷𝑹𝑶𝑮𝑹𝑨𝑴𝑴𝑰𝑵𝑮 &nbsp; 𝑾𝑬𝑩𝑺𝑰𝑻𝑬 &nbsp; 𝑳𝑰𝑵𝑲𝑺` 🤏</h3></summary>
 <h4><p align = "center"> ℙ𝕝𝕖𝕒𝕤𝕖 𝕤𝕔𝕣𝕠𝕝𝕝 𝕙𝕠𝕣𝕚𝕫𝕠𝕟𝕥𝕒𝕝𝕝𝕪 𝕒𝕟𝕕 𝕊𝕖𝕖 𝕞𝕪 𝕒𝕝𝕝 𝕔𝕠𝕞𝕡𝕖𝕥𝕚𝕥𝕚𝕧𝕖 𝕡𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕝𝕚𝕟𝕜𝕤 ➡ </p></h4>
 <div align="center">
 
