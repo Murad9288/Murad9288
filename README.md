@@ -75,7 +75,7 @@
   
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
 |-|-|
-|<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF"> <img  alt="Murad9288's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&border_radius=50&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="200px"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&border_radius=50&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="200px" />|
+|<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF"> <img  alt="Murad9288's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="200px"/></a> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="200px" />|
   
 </div>
 
@@ -85,7 +85,7 @@
   
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙲𝚘𝚞𝚗𝚝𝚛𝚢 𝚁𝚊𝚗𝚔 𝙱𝚢 𝚜𝚝𝚊𝚛𝚍𝚎𝚟.𝚒𝚘 ⤵️|
 |-|-|
-| <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border_radius=30&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width = "1000px" /></a>|
+| <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=react&layout=compact&border=#74DD0B" alt="murad9288" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width = "1000px" /></a>|
   
 </div>
 
