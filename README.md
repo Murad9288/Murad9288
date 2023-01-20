@@ -88,8 +88,3 @@
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&layout=compact" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width = "1000px" /></a>|
   
 </div>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murad9288&repo=github-readme-stats" />
-</a>
