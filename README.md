@@ -29,7 +29,7 @@
 
 
 
-<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` <img width="230px" height="220px" src="./Image sample/click.gif"/></h3></summary>
+<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
 
 <div align = "center">
   
@@ -88,7 +88,5 @@
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&layout=compact" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width = "1000px" /></a>|
   
 </div>
-
-<img width="230px" height="220px" src="./Image sample/click.gif"/>
 
 
