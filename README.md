@@ -88,3 +88,7 @@
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&layout=compact" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width = "1000px" /></a>|
   
 </div>
+
+<img width="230px" height="220px" src="./Image sample/click.gif"/>
+
+
