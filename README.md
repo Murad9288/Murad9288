@@ -29,7 +29,7 @@
 
 
 
-<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` 🤏</h3></summary>
+<details><summary><h3>`𝑷𝑳𝑬𝑨𝑺𝑬 &nbsp; 𝑪𝑳𝑰𝑪𝑲 &nbsp; 𝑴𝑬 &nbsp; 𝑨𝑵𝑫 &nbsp; 𝑺𝑬𝑬 &nbsp; 𝑴𝒀 &nbsp;𝑺𝑶𝑪𝑰𝑨𝑳 &nbsp; & &nbsp; 𝑩𝑳𝑶𝑮 &nbsp; 𝑳𝑰𝑵𝑲𝑺:` <img width="230px" height="220px" src="./Image sample/click.gif"/></h3></summary>
 
 <div align = "center">
   
