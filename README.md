@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=60&duration=4000&pause=1700&color=28F71A&center=false&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Murad GitHub" /></a>
+</div>
 
 ### `𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋 `
 
@@ -80,7 +82,7 @@
 
 
 <div align="center">
-  
+
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙲𝚘𝚞𝚗𝚝𝚛𝚢 𝚁𝚊𝚗𝚔 𝙱𝚢 𝚜𝚝𝚊𝚛𝚍𝚎𝚟.𝚒𝚘 ⤵️|
 |-|-|
 | <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&layout=compact" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg?" height="140px" width = "1000px" /></a>|
@@ -89,10 +91,8 @@
 
 </br>
 <div align="center">
-<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&duration=4000&pause=1700&color=FF00A9&center=true&multiline=true&width=915&height=100&lines=THANKS+FOR+VISITING+MY+GITHUB+PROFILE." alt="Murad GitHub" /></a>
+<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=4000&pause=1700&color=FF00A9&center=true&vCenter=true&width=915&height=100&lines=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9+%F0%9F%91%8B+%F0%9F%91%8B+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;THANKS+FOR+VISITING+MY+GITHUB+PROFILE.;%F0%9F%92%9E++BEST++OF++LUCK++++%F0%9F%92%90;%E2%98%AA%EF%B8%8F+---++ALLAH+HAFEEZ+++---+%E2%98%AA%EF%B8%8F" alt="Murad GitHub" /></a>
 
 </div>
-
-
 
 
