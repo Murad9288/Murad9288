@@ -89,7 +89,7 @@
 
 </br>
 <div align="center">
-<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=4000&pause=1700&color=FF00A9&center=true&multiline=true&width=915&height=100&lines=THANKS+FOR+VISITING+MY+GITHUB+PROFILE." alt="Murad GitHub" /></a>
+<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&duration=4000&pause=1700&color=FF00A9&center=true&multiline=true&width=915&height=100&lines=THANKS+FOR+VISITING+MY+GITHUB+PROFILE." alt="Murad GitHub" /></a>
 
 </div>
 
