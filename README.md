@@ -91,7 +91,7 @@
 
 </br>
 <div align="center">
-<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=40&duration=4000&pause=1700&color=FF00A9&center=true&vCenter=true&width=915&height=100&lines=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9+%F0%9F%91%8B+%F0%9F%91%8B+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;THANKS+FOR+VISITING+MY+GITHUB+PROFILE.;%F0%9F%92%9E++BEST++OF++LUCK++++%F0%9F%92%90;%E2%98%AA%EF%B8%8F+---++ALLAH+HAFEEZ+++---+%E2%98%AA%EF%B8%8F" alt="Murad GitHub" /></a>
+<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=fira+code&size=30&duration=4000&pause=1700&color=FF00A9&center=true&vCenter=true&width=915&height=100&lines=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9+%F0%9F%91%8B+%F0%9F%91%8B+%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5;THANKS+FOR+VISITING+MY+GITHUB+PROFILE.;%F0%9F%92%9E++BEST++OF++LUCK++++%F0%9F%92%90;%E2%98%AA%EF%B8%8F+---++ALLAH+HAFEEZ+++---+%E2%98%AA%EF%B8%8F" alt="Murad GitHub" /></a>
 
 </div>
 
