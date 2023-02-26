@@ -23,7 +23,7 @@
 
 |<p aling="center"><img src="./Image sample/4.gif" /></p>|
 |-|
-|<img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake.svg" />|
+|<img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake-dark.svg" />|
   
 </div>
 
