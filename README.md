@@ -5,7 +5,7 @@
 
 ### `𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋 `
 
-<a href="https://github.com/Murad9288"><img align="right" width="230px" height="220px" src="./Image sample/muradm.gif"></a>
+<a href="https://github.com/Murad9288"><img align="right" width="230px" height="220px" src="./Image sample/muradm.gif" style="border-radius: 20"></a>
 
 |<a href="https://github.com/Murad9288"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" /></a>|<a href="https://github.com/Murad9288"><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></a>|
 |-|-|
