@@ -1,5 +1,6 @@
 <div align="center">
-<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=60&duration=4000&pause=1700&color=28F71A&center=false&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Murad GitHub" /></a>
+  
+<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=45&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Murad GitHub" /></a>
 </div>
 
 ### `𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋 `
