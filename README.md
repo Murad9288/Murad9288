@@ -1,30 +1,30 @@
 <div align="center">
   
-<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=45&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Murad GitHub" /></a>
+<a href="https://github.com/Murad9288"><img src="https://readme-typing-svg.demolab.com?font=Arial+Black&size=48&duration=4000&pause=1700&color=28F71A&center=true&vCenter=true&multiline=false&width=1350&height=100&lines=ASSALAMUALAIKUM++WARAHMATULLAH" alt="Murad GitHub" /></a>
 </div>
 
 ### `𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋 `
 
-<img align="right" width="230px" height="220px" src="./Image sample/muradm.gif">
+<a href="https://github.com/Murad9288"><img align="right" width="230px" height="220px" src="./Image sample/muradm.gif"></a>
 
-|<img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" />|<img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" />|
+|<a href="https://github.com/Murad9288"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" /></a>|<a href="https://github.com/Murad9288"><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></a>|
 |-|-|
 
   
-- 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<img src="./Image sample/reseltname.gif" height = "15px"/>
-- 🌱 I’m currently working iOS Development.
-- 💬 Ask me about: Competitive programming & problem discussion.
-- 💞️ I’m looking for help with iOS development project learning.
+- 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Murad9288"><img src="./Image sample/reseltname.gif" height = "15px"/></a>
+- 🌱 I’m currently working on iOS Development.
+- 💬 Ask me about: iOS Development & competitive programming & problem discussion.
+- 💞️ I’m looking for help with Senior iOS development project learning.
 - 😄 Pronouns: He/Him. 
 - 📫 How to reach me: muradhossainm01@gmail.com
-- 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /> </a>
+- 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /></a>
 <br/>
 
 <div align="center">
 
-|<p aling="center"><img src="./Image sample/4.gif" /></p>|
+|<p aling="center"><a href="https://github.com/Murad9288"><img src="./Image sample/4.gif" /></a></p>|
 |-|
-|<img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake-dark.svg" />|
+|<a href="https://github.com/Murad9288"><img src="https://github.com/Murad9288/Murad9288/blob/output/github-contribution-grid-snake-dark.svg" /></a>|
   
 </div>
 
@@ -76,7 +76,7 @@
   
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
 |-|-|
-|<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="160px" width ="1000px" />|
+|<a href="https://github.com/Murad9288"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /></a> | <a href="https://github.com/Murad9288"><img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="160px" width ="1000px" /></a>|
   
 </div>
 
@@ -86,7 +86,7 @@
 
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙲𝚘𝚞𝚗𝚝𝚛𝚢 𝚁𝚊𝚗𝚔 𝙱𝚢 𝚜𝚝𝚊𝚛𝚍𝚎𝚟.𝚒𝚘 ⤵️|
 |-|-|
-| <p align ="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&layout=compact" height="140px" width = "1000px" /></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288&apos;s profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg" height="140px" width = "1000px" /></a>|
+| <p align ="center"><a href="https://github.com/Murad9288"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&layout=compact" height="140px" width = "1000px" /></a></p>|<a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288&apos;s profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/country.svg" height="140px" width = "1000px" /></a>|
   
 </div>
 
