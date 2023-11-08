@@ -7,7 +7,7 @@
 
 <a href="https://github.com/Murad9288"><img align="right" width="230px" height="220px" src="./Image sample/muradm.gif" style="border-radius: 20"></a>
 
-|<a href="https://github.com/Murad9288"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" /></a>|<a href="https://github.com/Murad9288"><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=MY+GITHUB+PROFILE+VIEWS" alt="murad9288" /></a>|
+|<a href="https://github.com/Murad9288"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" /></a>|<a href="https://github.com/Murad9288"><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=GITHUB+PROFILE+VIEWS" alt="murad9288" /></a>|
 |-|-|
 
   
