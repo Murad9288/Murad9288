@@ -12,9 +12,9 @@
 
   
 - 🔰  My name is &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Murad9288"><img src="./Image sample/reseltname.gif" height = "15px"/></a>
-- 🌱 I’m currently working on iOS Development.
+- 🌱 I am currently working as an iOS developer.
 - 💬 Ask me about: iOS Development & competitive programming & problem discussion.
-- 💞️ I’m looking for help with Senior iOS development project learning.
+- 💞️ I am looking for an opportunity as an iOS developer in a good App Store-based company.
 - 😄 Pronouns: He/Him. 
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /></a>
