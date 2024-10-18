@@ -5,7 +5,7 @@
 
 ### `𝐇𝐈 𝐓𝐇𝐄𝐑𝐄! 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐌𝐘 𝐆𝐈𝐓𝐇𝐔𝐁 𝐏𝐑𝐎𝐅𝐈𝐋𝐄 - 👋 `
 
-<a href="https://github.com/Murad9288"><img align="right" width="380px" height="380px" src="./Image sample/iosDeveloper.gif" style="border-radius: 10px;"></a>
+<a href="https://github.com/Murad9288"><img align="right" width="380px" height="320px" src="./Image sample/iosDeveloper22.gif" style="border-radius: 10px;"></a>
 
 |<a href="https://github.com/Murad9288"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" /></a>|<a href="https://github.com/Murad9288"><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=GITHUB+PROFILE+VIEWS" alt="murad9288" /></a>|
 |-|-|
@@ -18,8 +18,6 @@
 - 😄 Pronouns: He/Him. 
 - 📫 How to reach me: muradhossainm01@gmail.com
 - 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /></a>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
