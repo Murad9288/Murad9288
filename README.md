@@ -11,7 +11,7 @@
 |-|-|
 
   
-- 🔰  My name is  MD Murad Hossain
+- 🔰  My name is  Muhammad Murad Hossain
 - 🌱 I am currently working as an iOS developer.
 - 💬 Ask me about: iOS Development & competitive programming & problem discussion.
 - 💞️ I am looking for an opportunity as an iOS developer in a good App Store-based company.
