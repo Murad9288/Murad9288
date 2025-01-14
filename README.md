@@ -78,7 +78,7 @@
   
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
 |-|-|
-|<a href="https://github.com/Murad9288"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /></a> | <a href="https://github.com/Murad9288"><img src="https://github-readme-streak-stats.herokuapp.com?user=Murad9288&theme=algolia&dates=B7F8FF&border=FF1EAD&ring=F6FFBC&fire=FF840A&stroke=A9FDFA&currStreakNum=3DFF51&sideNums=FF0000&currStreakLabel=54FF38&sideLabels=F4FF3F&background=19226ED9" alt="murad9288" height ="160px" width ="1000px" /></a>|
+|<a href="https://github.com/Murad9288"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /></a> | <a href="https://github.com/Murad9288"><img src="https://git-hub-streak-stats.vercel.app?user=Murad9288&theme=dark&border_radius=40.7&mode=weekly&exclude_days=Sun%2CMon%2CWed%2CSat" alt="murad9288" height ="160px" width ="1000px" /></a>|
   
 </div>
 
