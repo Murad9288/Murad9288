@@ -78,7 +78,7 @@
   
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️ |🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝚂𝚝𝚛𝚎𝚊𝚔 𝚂𝚝𝚊𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
 |-|-|
-|<a href="https://github.com/Murad9288"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=DD05A6&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /></a> | <a href="https://github.com/Murad9288"><img src="https://git-hub-streak-stats.vercel.app?user=Murad9288&theme=dark&border_radius=40.7&mode=weekly&exclude_days=Sun%2CMon%2CWed%2CSat" alt="murad9288" height ="160px" width ="1000px" /></a>|
+|<a href="https://github.com/Murad9288"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Murad9288?cardType=level&theme=react&Title=24FAFF&Ring=19FF7A&Border=FFFBAEFF&Text=FFFFFF" height ="155px" width ="1000px" alt="Murad9288's GitHub Stats" /></a> | <a href="https://github.com/Murad9288"><img src="https://git-hub-streak-stats.vercel.app?user=Murad9288&theme=dark&Border=FFFBAEFF&mode=weekly&exclude_days=Sun%2CMon%2CWed%2CSat" alt="murad9288" height ="160px" width ="1000px" /></a>|
   
 </div>
 
@@ -88,7 +88,7 @@
 
 |🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙶𝚕𝚘𝚋𝚊𝚕 𝚁𝚊𝚗𝚔 𝙱𝚢 𝚂𝚝𝚊𝚛𝚍𝚎𝚟.𝚒𝚘 ⤵️|
 |-|-|
-| <p align ="center"><a href="https://github.com/Murad9288"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&Border=DD05A6&layout=compact" height="140px" width = "1000px" /></a></p>| <a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288&apos;s profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/global.svg" height="140px" width = "1000px" /></a>|
+| <p align ="center"><a href="https://github.com/Murad9288"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&Border=FFFBAEFF&layout=compact" height="140px" width = "1000px" /></a></p> | <a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/global.svg?border=FFFBAEFF" height="140px" width="1000px"/></a>|
   
 </div>
 
