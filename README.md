@@ -49,7 +49,6 @@
 ### 📫 Contact Me
 
 - 📧 Email: **muradhossainm01@gmail.com**  
-- 🔗 Linktree: [https://linktr.ee/murad9288](https://linktr.ee/murad9288)
 
 <br/>
 <br/>
