@@ -10,14 +10,47 @@
 |<a href="https://github.com/Murad9288"><img src="https://cdn1.iconfinder.com/data/icons/green-business/720/view-512.png" height="20" width="30" /></a>|<a href="https://github.com/Murad9288"><img src="https://komarev.com/ghpvc/?username=Murad9288&style=flat-square&color=00bfff&label=GITHUB+PROFILE+VIEWS" alt="murad9288" /></a>|
 |-|-|
 
-  
-- 🔰  My name is  Muhammad Murad Hossain
-- 🌱 I am currently working as an iOS developer.
-- 💬 Ask me about: iOS Development & competitive programming & problem discussion.
-- 💞️ I am looking for an opportunity as an iOS developer in a good App Store-based company.
-- 😄 Pronouns: He/Him. 
-- 📫 How to reach me: muradhossainm01@gmail.com
-- 📝 I regularly write articles on: <a href="https://murad9288.tumblr.com" target="blank">&nbsp;&nbsp;<img align="center" src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288" height="28" width="30" /></a>
+
+### 🔰 About Me
+- ****I'm Muhammad Murad Hossain****
+- 🔭 I’m currently working as a **Software Engineer (iOS)** at [**Shadhin Music Limited**](https://www.facebook.com/shadhin.co) 
+- 👨‍💻 I have **3+ years of experience** building iOS apps using **Swift**, **UIKit**, **SwiftUI**, and other Apple frameworks  
+- 💬 Ask me about: **iOS Development**, **Competitive Programming**, **Problem Solving**, and **Tech Mentorship**  
+- 🎯 Looking for an opportunity at a **product-based App Store company** as an iOS Developer  
+- 👨‍🏫 Founder & Vice-Principal of **BBPI Programmers Club (BPC)** — organizing contests & mentoring juniors  
+- 📚 Previously solved **400+ coding problems** across various online judges  
+- ✍️ I regularly write programming-related articles on :
+  <a href="https://murad9288.tumblr.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/216/216546.png" alt="murad9288.tumblr.com" width="28" height="28" />
+  </a>  
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+🔘 Swift 🔘 Python  
+
+**iOS Frameworks & Tools:**  
+🔘 UIKit 🔘 SwiftUI 🔘 Foundation 🔘 Auto Layout 🔘 Auto Resize 🔘 EventKit 🔘 RESTful API 🔘 URLSession 🔘 AVFoundation 🔘 Image Processing 🔘 Video 🔘 Vision 🔘 VisionKit 🔘 MessageUI 🔘 PDFKit 🔘 MediaPlayer 🔘 AVKit 🔘 Core Animation 🔘 CoreData 🔘 Video Processing 🔘 CI Filter 🔘 Speech Recognition 🔘 Push Notification 🔘 NotificationCenter 🔘 Combine 🔘 Swift Concurrency (async/await) 🔘 Codable 🔘 UserDefaults 🔘 FileManager 🔘 Keychain 🔘 Gesture Recognizers 🔘 NSAttributedString 🔘 Localization 🔘 Dark Mode Support 🔘 App Life Cycle Management 🔘 SceneDelegate & AppDelegate 🔘 Custom Transitions 🔘 All essential tools of Xcode
+
+**Design Patterns:**  
+🔘 MVC 🔘 MVVM  
+
+**Tools & Services:**  
+🔘 Git 🔘 Postman 🔘 Firebase 🔘 Figma 🔘 Canva  
+
+**📦 Data Handling & API Skills:**
+🔘 JSON 🔘 Codable 🔘 RESTful API 🔘 URLSession 🔘 Postman 🔘 API Debugging
+
+**Other Skills:**  
+🔘 Algorithms 🔘 Data Structures 🔘 OOP 🔘 App Store Publishing 🔘 Team Building 🔘 Mentorship 🔘 Leadership  
+
+---
+
+### 📫 Contact Me
+
+- 📧 Email: **muradhossainm01@gmail.com**  
+- 🔗 Linktree: [https://linktr.ee/murad9288](https://linktr.ee/murad9288)
+
 <br/>
 <br/>
 <br/>
