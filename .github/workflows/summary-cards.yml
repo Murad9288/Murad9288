@@ -1,25 +1,28 @@
+# Workflow 1: GitHub Profile Summary Cards
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # execute every 24 hours
-    - cron: "0 0 * * *"   # প্রতি দিন 00:00 UTC এ রান হবে (যা BD সময় সকাল 6টা)
+  schedule:
+    - cron: "0 0 * * *" # প্রতি দিন 00:00 UTC (BD সময় সকাল 6টা)
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-summary-cards
+    name: Generate GitHub Profile Summary Cards
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: "Murad9288"
           BRANCH_NAME: "main"
-          UTC_OFFSET: 6   # Bangladesh Time
+          UTC_OFFSET: 6
           EXCLUDE: ""
           AUTO_PUSH: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
