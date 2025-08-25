@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: "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"
         with:
           USERNAME: "Murad9288"
           BRANCH_NAME: "main"
