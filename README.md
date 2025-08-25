@@ -118,9 +118,9 @@
 
 <div align="center">
 
-|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙶𝚕𝚘𝚋𝚊𝚕 𝚁𝚊𝚗𝚔 𝙱𝚢 𝚂𝚝𝚊𝚛𝚍𝚎𝚟.𝚒𝚘 ⤵️|
+|🔥 𝙶𝚒𝚝𝚑𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚄𝚜𝚎𝚍 𝙲𝚊𝚛𝚍 ⤵️|🔥 𝙶𝚒𝚝𝙷𝚞𝚋 𝚁𝚎𝚊𝚍𝚖𝚎 𝙲𝚘𝚖𝚖𝚒𝚝𝚜 𝙲𝚊𝚛𝚍 ⤵️
 |-|-|
-| <p align ="center"><a href="https://github.com/Murad9288"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&Border=FFFBAEFF&layout=compact" height="140px" width = "1000px" /></a></p> | <a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://stardev.io/developers/Murad9288/badge/languages/global.svg?border=FFFBAEFF" height="140px" width="1000px"/></a>|
+| <p align ="center"><a href="https://github.com/Murad9288"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Murad9288&theme=tokyonight&Border=FFFBAEFF&layout=compact" height="140px" width = "1000px" /></a></p> | <a href="https://stardev.io/developers/Murad9288"><img alt="Check out Murad9288's profile on stardev.io" src="https://raw.githubusercontent.com/Murad9288/Murad9288/Main_File/profile-summary-card-output/github_dark/4-productive-time.svg?border=FFFBAEFF" height="160px" width="1000px"/></a>|
   
 </div>
 
