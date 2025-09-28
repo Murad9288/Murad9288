@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 **Languages:**  
-🔘 Swift 🔘 Python  
+🔘 Swift 🔘 Python 🔘 C/C++
 
 **iOS Frameworks & Tools:**  
 🔘 UIKit 🔘 SwiftUI 🔘 Foundation 🔘 Auto Layout 🔘 Auto Resize 🔘 EventKit 🔘 RESTful API 🔘 URLSession 🔘 AVFoundation 🔘 Image Processing 🔘 Video 🔘 Vision 🔘 VisionKit 🔘 MessageUI 🔘 PDFKit 🔘 MediaPlayer 🔘 AVKit 🔘 Core Animation 🔘 CoreData 🔘 Video Processing 🔘 CI Filter 🔘 Speech Recognition 🔘 Push Notification 🔘 NotificationCenter 🔘 Combine 🔘 Swift Concurrency (async/await) 🔘 Codable 🔘 UserDefaults 🔘 FileManager 🔘 Keychain 🔘 Gesture Recognizers 🔘 NSAttributedString 🔘 Localization 🔘 Dark Mode Support 🔘 App Life Cycle Management 🔘 SceneDelegate & AppDelegate 🔘 Custom Transitions 🔘 All essential tools of Xcode
